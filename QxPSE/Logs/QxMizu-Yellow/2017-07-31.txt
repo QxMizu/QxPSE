@@ -1,0 +1,2620 @@
+[00:16:15] Connected, authenticating...
+[00:16:16] Authenticated successfully!
+[00:16:16] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[00:16:16] Position updated: Love Island (35, 47) [OK]
+[00:16:50] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[00:16:50] Make sure your configuration is done properly. Press Start.
+[00:16:50] Bot started
+[00:16:50] Pathfinder v(2.3.0) : Loading default settings.
+[00:16:50] Pathfinder: Warning, cannot Headbutt trees.
+[00:16:50] ****************************************BOT STARTED*****************************************
+[00:17:00] No action executed: stopping the bot.
+[00:17:00] Bot stopped
+[00:17:01] Logging out...
+[00:17:01] Disconnected from the server.
+[00:17:03] Connected, authenticating...
+[00:17:04] Authenticated successfully!
+[00:17:04] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[00:17:04] Position updated: Love Island (39, 35) [OK]
+[00:17:07] Bot started
+[00:17:07] Pathfinder: Warning, cannot Headbutt trees.
+[00:17:07] ****************************************BOT STARTED*****************************************
+[00:17:17] No action executed: stopping the bot.
+[00:17:17] Bot stopped
+[00:18:04] Bot started
+[00:18:04] Pathfinder: Warning, cannot Headbutt trees.
+[00:18:04] ****************************************BOT STARTED*****************************************
+[00:18:04] System: You are now AFK!
+[00:18:11] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[00:18:11] Make sure your configuration is done properly. Press Start.
+[00:18:11] Bot stopped
+[00:18:11] Bot started
+[00:18:11] Pathfinder v(2.3.0) : Loading default settings.
+[00:18:11] Pathfinder: Warning, cannot Headbutt trees.
+[00:18:11] ****************************************BOT STARTED*****************************************
+[00:18:12] System: You are no longer AFK!
+[00:18:20] Info | Shineys encountered: 0
+[00:18:20] Info | Pokemon caught: 0
+[00:18:20] Info | Pokemon encountered: 1
+[00:18:20] A Wild Gloom Attacks!
+[00:18:26] You have run away from the wild Pokemon.
+[00:18:35] Info | Shineys encountered: 0
+[00:18:35] Info | Pokemon caught: 0
+[00:18:35] Info | Pokemon encountered: 2
+[00:18:35] A Wild Oddish Attacks!
+[00:18:41] You have run away from the wild Pokemon.
+[00:18:45] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[00:18:45] Make sure your configuration is done properly. Press Start.
+[00:18:45] Bot stopped
+[00:18:46] Bot started
+[00:18:46] Pathfinder v(2.3.0) : Loading default settings.
+[00:18:46] Pathfinder: Warning, cannot Headbutt trees.
+[00:18:46] ****************************************BOT STARTED*****************************************
+[00:18:49] Info | Shineys encountered: 0
+[00:18:49] Info | Pokemon caught: 0
+[00:18:49] Info | Pokemon encountered: 1
+[00:18:49] A Wild Meowth Attacks!
+[00:18:54] You have run away from the wild Pokemon.
+[00:19:01] Info | Shineys encountered: 0
+[00:19:01] Info | Pokemon caught: 0
+[00:19:01] Info | Pokemon encountered: 2
+[00:19:01] A Wild Oddish Attacks!
+[00:19:07] You have run away from the wild Pokemon.
+[00:19:16] Info | Shineys encountered: 0
+[00:19:16] Info | Pokemon caught: 0
+[00:19:16] Info | Pokemon encountered: 3
+[00:19:16] A Wild Gloom Attacks!
+[00:19:20] You have run away from the wild Pokemon.
+[00:19:29] Info | Shineys encountered: 0
+[00:19:29] Info | Pokemon caught: 0
+[00:19:29] Info | Pokemon encountered: 4
+[00:19:29] A Wild Oddish Attacks!
+[00:19:34] You have run away from the wild Pokemon.
+[00:19:43] Info | Shineys encountered: 0
+[00:19:43] Info | Pokemon caught: 0
+[00:19:43] Info | Pokemon encountered: 5
+[00:19:43] A Wild Igglybuff Attacks!
+[00:19:49] Come Back, Xatu!
+[00:19:49] Go, Kingler!
+[00:19:49] Igglybuff Attacks Kingler with Pound.
+[00:19:51] Kingler Attacks Igglybuff with False Swipe.
+[00:19:51] A Critical Hit!
+[00:19:51] Igglybuff Attacks Kingler with Pound.
+[00:19:55] You throw a Pokeball.
+[00:19:55] Oh no! The Pokemon broke free!
+[00:19:55] Igglybuff Attacks Kingler with Pound.
+[00:19:59] You throw a Pokeball.
+[00:19:59] Info | Shineys encountered: 0
+[00:19:59] Info | Pokemon caught: 1
+[00:19:59] Info | Pokemon encountered: 5
+[00:19:59] Success! You caught Igglybuff!
+[00:20:05] Info | Shineys encountered: 0
+[00:20:05] Info | Pokemon caught: 1
+[00:20:05] Info | Pokemon encountered: 6
+[00:20:05] A Wild Poochyena Attacks!
+[00:20:10] You have run away from the wild Pokemon.
+[00:20:19] Info | Shineys encountered: 0
+[00:20:19] Info | Pokemon caught: 1
+[00:20:19] Info | Pokemon encountered: 7
+[00:20:19] A Wild Nidoran F Attacks!
+[00:20:25] You have run away from the wild Pokemon.
+[00:20:31] Info | Shineys encountered: 0
+[00:20:31] Info | Pokemon caught: 1
+[00:20:31] Info | Pokemon encountered: 8
+[00:20:31] A Wild Gloom Attacks!
+[00:20:37] You have run away from the wild Pokemon.
+[00:20:45] Info | Shineys encountered: 0
+[00:20:45] Info | Pokemon caught: 1
+[00:20:45] Info | Pokemon encountered: 9
+[00:20:45] A Wild Meowth Attacks!
+[00:20:49] You have run away from the wild Pokemon.
+[00:21:01] Info | Shineys encountered: 0
+[00:21:01] Info | Pokemon caught: 1
+[00:21:01] Info | Pokemon encountered: 10
+[00:21:01] A Wild Poochyena Attacks!
+[00:21:06] You have run away from the wild Pokemon.
+[00:21:11] Info | Shineys encountered: 0
+[00:21:11] Info | Pokemon caught: 1
+[00:21:11] Info | Pokemon encountered: 11
+[00:21:11] A Wild Oddish Attacks!
+[00:21:17] You have run away from the wild Pokemon.
+[00:21:25] Info | Shineys encountered: 0
+[00:21:25] Info | Pokemon caught: 1
+[00:21:25] Info | Pokemon encountered: 12
+[00:21:25] A Wild Poochyena Attacks!
+[00:21:29] You have run away from the wild Pokemon.
+[00:21:37] Info | Shineys encountered: 0
+[00:21:37] Info | Pokemon caught: 1
+[00:21:37] Info | Pokemon encountered: 13
+[00:21:37] A Wild Nidoran F Attacks!
+[00:21:42] You have run away from the wild Pokemon.
+[00:21:51] Position updated: Love Island (37, 36) [OK, lag, distance=1]
+[00:21:51] Info | Shineys encountered: 0
+[00:21:51] Info | Pokemon caught: 1
+[00:21:51] Info | Pokemon encountered: 14
+[00:21:51] A Wild Gloom Attacks!
+[00:21:56] You have run away from the wild Pokemon.
+[00:22:05] Info | Shineys encountered: 0
+[00:22:05] Info | Pokemon caught: 1
+[00:22:05] Info | Pokemon encountered: 15
+[00:22:05] A Wild Meowth Attacks!
+[00:22:09] You have run away from the wild Pokemon.
+[00:22:18] Info | Shineys encountered: 0
+[00:22:18] Info | Pokemon caught: 1
+[00:22:18] Info | Pokemon encountered: 16
+[00:22:18] A Wild Oddish Attacks!
+[00:22:24] You have run away from the wild Pokemon.
+[00:22:31] Info | Shineys encountered: 0
+[00:22:31] Info | Pokemon caught: 1
+[00:22:31] Info | Pokemon encountered: 17
+[00:22:31] A Wild Oddish Attacks!
+[00:22:35] You have run away from the wild Pokemon.
+[00:22:44] Info | Shineys encountered: 0
+[00:22:44] Info | Pokemon caught: 1
+[00:22:44] Info | Pokemon encountered: 18
+[00:22:44] A Wild Nidoran F Attacks!
+[00:22:49] You have run away from the wild Pokemon.
+[00:22:59] Info | Shineys encountered: 0
+[00:22:59] Info | Pokemon caught: 1
+[00:22:59] Info | Pokemon encountered: 19
+[00:22:59] A Wild Meowth Attacks!
+[00:23:04] You have run away from the wild Pokemon.
+[00:23:13] Info | Shineys encountered: 0
+[00:23:13] Info | Pokemon caught: 1
+[00:23:13] Info | Pokemon encountered: 20
+[00:23:13] A Wild Oddish Attacks!
+[00:23:18] You have run away from the wild Pokemon.
+[00:23:26] Info | Shineys encountered: 0
+[00:23:26] Info | Pokemon caught: 1
+[00:23:26] Info | Pokemon encountered: 21
+[00:23:26] A Wild Gloom Attacks!
+[00:23:32] You have run away from the wild Pokemon.
+[00:23:41] Info | Shineys encountered: 0
+[00:23:41] Info | Pokemon caught: 1
+[00:23:41] Info | Pokemon encountered: 22
+[00:23:41] A Wild Oddish Attacks!
+[00:23:45] You have run away from the wild Pokemon.
+[00:23:55] Info | Shineys encountered: 0
+[00:23:55] Info | Pokemon caught: 1
+[00:23:55] Info | Pokemon encountered: 23
+[00:23:55] A Wild Oddish Attacks!
+[00:24:00] You have run away from the wild Pokemon.
+[00:24:09] Info | Shineys encountered: 0
+[00:24:09] Info | Pokemon caught: 1
+[00:24:09] Info | Pokemon encountered: 24
+[00:24:09] A Wild Meowth Attacks!
+[00:24:15] You have run away from the wild Pokemon.
+[00:24:22] Info | Shineys encountered: 0
+[00:24:22] Info | Pokemon caught: 1
+[00:24:22] Info | Pokemon encountered: 25
+[00:24:22] A Wild Poochyena Attacks!
+[00:24:26] You have run away from the wild Pokemon.
+[00:24:35] Info | Shineys encountered: 0
+[00:24:35] Info | Pokemon caught: 1
+[00:24:35] Info | Pokemon encountered: 26
+[00:24:35] A Wild Nidoran F Attacks!
+[00:24:41] You have run away from the wild Pokemon.
+[00:24:52] Info | Shineys encountered: 0
+[00:24:52] Info | Pokemon caught: 1
+[00:24:52] Info | Pokemon encountered: 27
+[00:24:52] A Wild Oddish Attacks!
+[00:24:58] You have run away from the wild Pokemon.
+[00:25:06] Info | Shineys encountered: 0
+[00:25:06] Info | Pokemon caught: 1
+[00:25:06] Info | Pokemon encountered: 28
+[00:25:06] A Wild Oddish Attacks!
+[00:25:10] You have run away from the wild Pokemon.
+[00:25:18] Info | Shineys encountered: 0
+[00:25:18] Info | Pokemon caught: 1
+[00:25:18] Info | Pokemon encountered: 29
+[00:25:18] A Wild Meowth Attacks!
+[00:25:23] You have run away from the wild Pokemon.
+[00:25:30] Info | Shineys encountered: 0
+[00:25:30] Info | Pokemon caught: 1
+[00:25:30] Info | Pokemon encountered: 30
+[00:25:30] A Wild Oddish Attacks!
+[00:25:36] You have run away from the wild Pokemon.
+[00:25:45] Info | Shineys encountered: 0
+[00:25:45] Info | Pokemon caught: 1
+[00:25:45] Info | Pokemon encountered: 31
+[00:25:45] A Wild Nidoran F Attacks!
+[00:25:49] You have run away from the wild Pokemon.
+[00:26:10] Info | Shineys encountered: 0
+[00:26:10] Info | Pokemon caught: 1
+[00:26:10] Info | Pokemon encountered: 32
+[00:26:10] A Wild Nidoran F Attacks!
+[00:26:14] You have run away from the wild Pokemon.
+[00:26:22] Info | Shineys encountered: 0
+[00:26:22] Info | Pokemon caught: 1
+[00:26:22] Info | Pokemon encountered: 33
+[00:26:22] A Wild Meowth Attacks!
+[00:26:28] You have run away from the wild Pokemon.
+[00:26:40] Info | Shineys encountered: 0
+[00:26:40] Info | Pokemon caught: 1
+[00:26:40] Info | Pokemon encountered: 34
+[00:26:40] A Wild Oddish Attacks!
+[00:26:45] You have run away from the wild Pokemon.
+[00:26:52] Info | Shineys encountered: 0
+[00:26:52] Info | Pokemon caught: 1
+[00:26:52] Info | Pokemon encountered: 35
+[00:26:52] A Wild Oddish Attacks!
+[00:26:56] You have run away from the wild Pokemon.
+[00:27:05] Info | Shineys encountered: 0
+[00:27:05] Info | Pokemon caught: 1
+[00:27:05] Info | Pokemon encountered: 36
+[00:27:05] A Wild Oddish Attacks!
+[00:27:10] You have run away from the wild Pokemon.
+[00:27:17] Info | Shineys encountered: 0
+[00:27:17] Info | Pokemon caught: 1
+[00:27:17] Info | Pokemon encountered: 37
+[00:27:17] A Wild Oddish Attacks!
+[00:27:22] You have run away from the wild Pokemon.
+[00:27:29] Info | Shineys encountered: 0
+[00:27:29] Info | Pokemon caught: 1
+[00:27:29] Info | Pokemon encountered: 38
+[00:27:29] A Wild Nidoran F Attacks!
+[00:27:34] You have run away from the wild Pokemon.
+[00:27:42] Info | Shineys encountered: 0
+[00:27:42] Info | Pokemon caught: 1
+[00:27:42] Info | Pokemon encountered: 39
+[00:27:42] A Wild Meowth Attacks!
+[00:27:46] You have run away from the wild Pokemon.
+[00:27:54] Info | Shineys encountered: 0
+[00:27:54] Info | Pokemon caught: 1
+[00:27:54] Info | Pokemon encountered: 40
+[00:27:54] A Wild Oddish Attacks!
+[00:28:00] You have run away from the wild Pokemon.
+[00:28:12] Info | Shineys encountered: 0
+[00:28:12] Info | Pokemon caught: 1
+[00:28:12] Info | Pokemon encountered: 41
+[00:28:12] A Wild Gloom Attacks!
+[00:28:17] You have run away from the wild Pokemon.
+[00:28:28] Info | Shineys encountered: 0
+[00:28:28] Info | Pokemon caught: 1
+[00:28:28] Info | Pokemon encountered: 42
+[00:28:28] A Wild Oddish Attacks!
+[00:28:34] You have run away from the wild Pokemon.
+[00:28:45] Info | Shineys encountered: 0
+[00:28:45] Info | Pokemon caught: 1
+[00:28:45] Info | Pokemon encountered: 43
+[00:28:45] A Wild Oddish Attacks!
+[00:28:50] You have run away from the wild Pokemon.
+[00:29:02] Info | Shineys encountered: 0
+[00:29:02] Info | Pokemon caught: 1
+[00:29:02] Info | Pokemon encountered: 44
+[00:29:02] A Wild Meowth Attacks!
+[00:29:07] You have run away from the wild Pokemon.
+[00:29:15] Info | Shineys encountered: 0
+[00:29:15] Info | Pokemon caught: 1
+[00:29:15] Info | Pokemon encountered: 45
+[00:29:15] A Wild Nidoran F Attacks!
+[00:29:19] You have run away from the wild Pokemon.
+[00:29:27] Info | Shineys encountered: 0
+[00:29:27] Info | Pokemon caught: 1
+[00:29:27] Info | Pokemon encountered: 46
+[00:29:27] A Wild Oddish Attacks!
+[00:29:31] You have run away from the wild Pokemon.
+[00:29:41] Info | Shineys encountered: 0
+[00:29:41] Info | Pokemon caught: 1
+[00:29:41] Info | Pokemon encountered: 47
+[00:29:41] A Wild Meowth Attacks!
+[00:29:46] You have run away from the wild Pokemon.
+[00:29:56] Info | Shineys encountered: 0
+[00:29:56] Info | Pokemon caught: 1
+[00:29:56] Info | Pokemon encountered: 48
+[00:29:56] A Wild Oddish Attacks!
+[00:30:01] You have run away from the wild Pokemon.
+[00:30:08] Info | Shineys encountered: 0
+[00:30:08] Info | Pokemon caught: 1
+[00:30:08] Info | Pokemon encountered: 49
+[00:30:08] A Wild Oddish Attacks!
+[00:30:14] You have run away from the wild Pokemon.
+[00:30:22] Info | Shineys encountered: 0
+[00:30:22] Info | Pokemon caught: 1
+[00:30:22] Info | Pokemon encountered: 50
+[00:30:22] A Wild Oddish Attacks!
+[00:30:27] You have run away from the wild Pokemon.
+[00:30:37] Info | Shineys encountered: 0
+[00:30:37] Info | Pokemon caught: 1
+[00:30:37] Info | Pokemon encountered: 51
+[00:30:37] A Wild Gloom Attacks!
+[00:30:43] You have run away from the wild Pokemon.
+[00:30:51] Info | Shineys encountered: 0
+[00:30:51] Info | Pokemon caught: 1
+[00:30:51] Info | Pokemon encountered: 52
+[00:30:51] A Wild Oddish Attacks!
+[00:30:57] You have run away from the wild Pokemon.
+[00:31:06] Info | Shineys encountered: 0
+[00:31:06] Info | Pokemon caught: 1
+[00:31:06] Info | Pokemon encountered: 53
+[00:31:06] A Wild Oddish Attacks!
+[00:31:11] You have run away from the wild Pokemon.
+[00:31:21] Info | Shineys encountered: 0
+[00:31:21] Info | Pokemon caught: 1
+[00:31:21] Info | Pokemon encountered: 54
+[00:31:21] A Wild Meowth Attacks!
+[00:31:25] You have run away from the wild Pokemon.
+[00:31:36] Info | Shineys encountered: 0
+[00:31:36] Info | Pokemon caught: 1
+[00:31:36] Info | Pokemon encountered: 55
+[00:31:36] A Wild Oddish Attacks!
+[00:31:41] You have run away from the wild Pokemon.
+[00:31:50] Info | Shineys encountered: 0
+[00:31:50] Info | Pokemon caught: 1
+[00:31:50] Info | Pokemon encountered: 56
+[00:31:50] A Wild Meowth Attacks!
+[00:31:54] You have run away from the wild Pokemon.
+[00:32:06] Info | Shineys encountered: 0
+[00:32:06] Info | Pokemon caught: 1
+[00:32:06] Info | Pokemon encountered: 57
+[00:32:06] A Wild Oddish Attacks!
+[00:32:11] You have run away from the wild Pokemon.
+[00:32:20] Info | Shineys encountered: 0
+[00:32:20] Info | Pokemon caught: 1
+[00:32:20] Info | Pokemon encountered: 58
+[00:32:20] A Wild Meowth Attacks!
+[00:32:24] You have run away from the wild Pokemon.
+[00:32:34] Info | Shineys encountered: 0
+[00:32:34] Info | Pokemon caught: 1
+[00:32:34] Info | Pokemon encountered: 59
+[00:32:34] A Wild Oddish Attacks!
+[00:32:38] You have run away from the wild Pokemon.
+[00:32:44] Info | Shineys encountered: 0
+[00:32:44] Info | Pokemon caught: 1
+[00:32:44] Info | Pokemon encountered: 60
+[00:32:44] A Wild Oddish Attacks!
+[00:32:49] You have run away from the wild Pokemon.
+[00:32:59] Info | Shineys encountered: 0
+[00:32:59] Info | Pokemon caught: 1
+[00:32:59] Info | Pokemon encountered: 61
+[00:32:59] A Wild Meowth Attacks!
+[00:33:05] You have run away from the wild Pokemon.
+[00:33:18] Info | Shineys encountered: 0
+[00:33:18] Info | Pokemon caught: 1
+[00:33:18] Info | Pokemon encountered: 62
+[00:33:18] A Wild Oddish Attacks!
+[00:33:24] You have run away from the wild Pokemon.
+[00:33:30] Info | Shineys encountered: 0
+[00:33:30] Info | Pokemon caught: 1
+[00:33:30] Info | Pokemon encountered: 63
+[00:33:30] A Wild Poochyena Attacks!
+[00:33:35] You have run away from the wild Pokemon.
+[00:33:42] Info | Shineys encountered: 0
+[00:33:42] Info | Pokemon caught: 1
+[00:33:42] Info | Pokemon encountered: 64
+[00:33:42] A Wild Oddish Attacks!
+[00:33:46] You have run away from the wild Pokemon.
+[00:33:54] Info | Shineys encountered: 0
+[00:33:54] Info | Pokemon caught: 1
+[00:33:54] Info | Pokemon encountered: 65
+[00:33:54] A Wild Meowth Attacks!
+[00:33:58] You have run away from the wild Pokemon.
+[00:34:04] Info | Shineys encountered: 0
+[00:34:04] Info | Pokemon caught: 1
+[00:34:04] Info | Pokemon encountered: 66
+[00:34:04] A Wild Meowth Attacks!
+[00:34:09] You have run away from the wild Pokemon.
+[00:34:20] Info | Shineys encountered: 0
+[00:34:20] Info | Pokemon caught: 1
+[00:34:20] Info | Pokemon encountered: 67
+[00:34:20] A Wild Meowth Attacks!
+[00:34:26] You have run away from the wild Pokemon.
+[00:34:36] Info | Shineys encountered: 0
+[00:34:36] Info | Pokemon caught: 1
+[00:34:36] Info | Pokemon encountered: 68
+[00:34:36] A Wild Poochyena Attacks!
+[00:34:41] You have run away from the wild Pokemon.
+[00:34:50] Info | Shineys encountered: 0
+[00:34:50] Info | Pokemon caught: 1
+[00:34:50] Info | Pokemon encountered: 69
+[00:34:50] A Wild Oddish Attacks!
+[00:34:55] You have run away from the wild Pokemon.
+[00:35:06] Info | Shineys encountered: 0
+[00:35:06] Info | Pokemon caught: 1
+[00:35:06] Info | Pokemon encountered: 70
+[00:35:06] A Wild Oddish Attacks!
+[00:35:10] You have run away from the wild Pokemon.
+[00:35:19] Info | Shineys encountered: 0
+[00:35:19] Info | Pokemon caught: 1
+[00:35:19] Info | Pokemon encountered: 71
+[00:35:19] A Wild Gloom Attacks!
+[00:35:23] You have run away from the wild Pokemon.
+[00:35:29] Info | Shineys encountered: 0
+[00:35:29] Info | Pokemon caught: 1
+[00:35:29] Info | Pokemon encountered: 72
+[00:35:29] A Wild Meowth Attacks!
+[00:35:34] You have run away from the wild Pokemon.
+[00:35:47] Info | Shineys encountered: 0
+[00:35:47] Info | Pokemon caught: 1
+[00:35:47] Info | Pokemon encountered: 73
+[00:35:47] A Wild Poochyena Attacks!
+[00:35:53] You have run away from the wild Pokemon.
+[00:36:01] Info | Shineys encountered: 0
+[00:36:01] Info | Pokemon caught: 1
+[00:36:01] Info | Pokemon encountered: 74
+[00:36:01] A Wild Oddish Attacks!
+[00:36:06] You have run away from the wild Pokemon.
+[00:36:17] Info | Shineys encountered: 0
+[00:36:17] Info | Pokemon caught: 1
+[00:36:17] Info | Pokemon encountered: 75
+[00:36:17] A Wild Meowth Attacks!
+[00:36:22] You have run away from the wild Pokemon.
+[00:36:31] Info | Shineys encountered: 0
+[00:36:31] Info | Pokemon caught: 1
+[00:36:31] Info | Pokemon encountered: 76
+[00:36:31] A Wild Oddish Attacks!
+[00:36:36] You have run away from the wild Pokemon.
+[00:36:45] Info | Shineys encountered: 0
+[00:36:45] Info | Pokemon caught: 1
+[00:36:45] Info | Pokemon encountered: 77
+[00:36:45] A Wild Meowth Attacks!
+[00:36:50] You have run away from the wild Pokemon.
+[00:36:59] Info | Shineys encountered: 0
+[00:36:59] Info | Pokemon caught: 1
+[00:36:59] Info | Pokemon encountered: 78
+[00:36:59] A Wild Oddish Attacks!
+[00:37:04] You have run away from the wild Pokemon.
+[00:37:13] Info | Shineys encountered: 0
+[00:37:13] Info | Pokemon caught: 1
+[00:37:13] Info | Pokemon encountered: 79
+[00:37:13] A Wild Meowth Attacks!
+[00:37:17] You have run away from the wild Pokemon.
+[00:37:24] Info | Shineys encountered: 0
+[00:37:24] Info | Pokemon caught: 1
+[00:37:24] Info | Pokemon encountered: 80
+[00:37:24] A Wild Poochyena Attacks!
+[00:37:28] You have run away from the wild Pokemon.
+[00:37:35] Info | Shineys encountered: 0
+[00:37:35] Info | Pokemon caught: 1
+[00:37:35] Info | Pokemon encountered: 81
+[00:37:35] A Wild Nidoran F Attacks!
+[00:37:39] You have run away from the wild Pokemon.
+[00:37:57] Info | Shineys encountered: 0
+[00:37:57] Info | Pokemon caught: 1
+[00:37:57] Info | Pokemon encountered: 82
+[00:37:57] A Wild Gloom Attacks!
+[00:38:03] You have run away from the wild Pokemon.
+[00:38:14] Info | Shineys encountered: 0
+[00:38:14] Info | Pokemon caught: 1
+[00:38:14] Info | Pokemon encountered: 83
+[00:38:14] A Wild Meowth Attacks!
+[00:38:20] You have run away from the wild Pokemon.
+[00:38:34] Info | Shineys encountered: 0
+[00:38:34] Info | Pokemon caught: 1
+[00:38:34] Info | Pokemon encountered: 84
+[00:38:34] A Wild Meowth Attacks!
+[00:38:38] You have run away from the wild Pokemon.
+[00:38:46] Info | Shineys encountered: 0
+[00:38:46] Info | Pokemon caught: 1
+[00:38:46] Info | Pokemon encountered: 85
+[00:38:46] A Wild Poochyena Attacks!
+[00:38:51] You have run away from the wild Pokemon.
+[00:38:59] Info | Shineys encountered: 0
+[00:38:59] Info | Pokemon caught: 1
+[00:38:59] Info | Pokemon encountered: 86
+[00:38:59] A Wild Meowth Attacks!
+[00:39:03] You have run away from the wild Pokemon.
+[00:39:10] Info | Shineys encountered: 0
+[00:39:10] Info | Pokemon caught: 1
+[00:39:10] Info | Pokemon encountered: 87
+[00:39:10] A Wild Gloom Attacks!
+[00:39:14] You have run away from the wild Pokemon.
+[00:39:22] Info | Shineys encountered: 0
+[00:39:22] Info | Pokemon caught: 1
+[00:39:22] Info | Pokemon encountered: 88
+[00:39:22] A Wild Oddish Attacks!
+[00:39:26] You have run away from the wild Pokemon.
+[00:39:33] Info | Shineys encountered: 0
+[00:39:33] Info | Pokemon caught: 1
+[00:39:33] Info | Pokemon encountered: 89
+[00:39:33] A Wild Meowth Attacks!
+[00:39:37] You have run away from the wild Pokemon.
+[00:39:44] Info | Shineys encountered: 0
+[00:39:44] Info | Pokemon caught: 1
+[00:39:44] Info | Pokemon encountered: 90
+[00:39:44] A Wild Oddish Attacks!
+[00:39:48] You have run away from the wild Pokemon.
+[00:39:55] Info | Shineys encountered: 0
+[00:39:55] Info | Pokemon caught: 1
+[00:39:55] Info | Pokemon encountered: 91
+[00:39:55] A Wild Meowth Attacks!
+[00:40:01] You have run away from the wild Pokemon.
+[00:40:10] Info | Shineys encountered: 0
+[00:40:10] Info | Pokemon caught: 1
+[00:40:10] Info | Pokemon encountered: 92
+[00:40:10] A Wild Meowth Attacks!
+[00:40:14] You have run away from the wild Pokemon.
+[00:40:22] Info | Shineys encountered: 0
+[00:40:22] Info | Pokemon caught: 1
+[00:40:22] Info | Pokemon encountered: 93
+[00:40:22] A Wild Oddish Attacks!
+[00:40:27] You have run away from the wild Pokemon.
+[00:40:36] Info | Shineys encountered: 0
+[00:40:36] Info | Pokemon caught: 1
+[00:40:36] Info | Pokemon encountered: 94
+[00:40:36] A Wild Meowth Attacks!
+[00:40:40] You have run away from the wild Pokemon.
+[00:40:50] Info | Shineys encountered: 0
+[00:40:50] Info | Pokemon caught: 1
+[00:40:50] Info | Pokemon encountered: 95
+[00:40:50] A Wild Oddish Attacks!
+[00:40:55] You have run away from the wild Pokemon.
+[00:41:02] Info | Shineys encountered: 0
+[00:41:02] Info | Pokemon caught: 1
+[00:41:02] Info | Pokemon encountered: 96
+[00:41:02] A Wild Oddish Attacks!
+[00:41:07] You have run away from the wild Pokemon.
+[00:41:18] Info | Shineys encountered: 0
+[00:41:18] Info | Pokemon caught: 1
+[00:41:18] Info | Pokemon encountered: 97
+[00:41:18] A Wild Meowth Attacks!
+[00:41:24] You have run away from the wild Pokemon.
+[00:41:36] Info | Shineys encountered: 0
+[00:41:36] Info | Pokemon caught: 1
+[00:41:36] Info | Pokemon encountered: 98
+[00:41:36] A Wild Meowth Attacks!
+[00:41:41] You have run away from the wild Pokemon.
+[00:41:50] Info | Shineys encountered: 0
+[00:41:50] Info | Pokemon caught: 1
+[00:41:50] Info | Pokemon encountered: 99
+[00:41:50] A Wild Oddish Attacks!
+[00:41:54] You have run away from the wild Pokemon.
+[00:42:01] Info | Shineys encountered: 0
+[00:42:01] Info | Pokemon caught: 1
+[00:42:01] Info | Pokemon encountered: 100
+[00:42:01] A Wild Meowth Attacks!
+[00:42:06] You have run away from the wild Pokemon.
+[00:42:17] Info | Shineys encountered: 0
+[00:42:17] Info | Pokemon caught: 1
+[00:42:17] Info | Pokemon encountered: 101
+[00:42:17] A Wild Meowth Attacks!
+[00:42:22] You have run away from the wild Pokemon.
+[00:42:31] Info | Shineys encountered: 0
+[00:42:31] Info | Pokemon caught: 1
+[00:42:31] Info | Pokemon encountered: 102
+[00:42:31] A Wild Gloom Attacks!
+[00:42:35] You have run away from the wild Pokemon.
+[00:42:43] Info | Shineys encountered: 0
+[00:42:43] Info | Pokemon caught: 1
+[00:42:43] Info | Pokemon encountered: 103
+[00:42:43] A Wild Oddish Attacks!
+[00:42:48] You have run away from the wild Pokemon.
+[00:42:58] Info | Shineys encountered: 0
+[00:42:58] Info | Pokemon caught: 1
+[00:42:58] Info | Pokemon encountered: 104
+[00:42:58] A Wild Oddish Attacks!
+[00:43:03] You have run away from the wild Pokemon.
+[00:43:13] Info | Shineys encountered: 0
+[00:43:13] Info | Pokemon caught: 1
+[00:43:13] Info | Pokemon encountered: 105
+[00:43:13] A Wild Poochyena Attacks!
+[00:43:19] You have run away from the wild Pokemon.
+[00:43:28] Info | Shineys encountered: 0
+[00:43:28] Info | Pokemon caught: 1
+[00:43:28] Info | Pokemon encountered: 106
+[00:43:28] A Wild Meowth Attacks!
+[00:43:32] You have run away from the wild Pokemon.
+[00:43:41] Info | Shineys encountered: 0
+[00:43:41] Info | Pokemon caught: 1
+[00:43:41] Info | Pokemon encountered: 107
+[00:43:41] A Wild Meowth Attacks!
+[00:43:47] You have run away from the wild Pokemon.
+[00:43:55] Info | Shineys encountered: 0
+[00:43:55] Info | Pokemon caught: 1
+[00:43:55] Info | Pokemon encountered: 108
+[00:43:55] A Wild Oddish Attacks!
+[00:44:00] You have run away from the wild Pokemon.
+[00:44:09] Info | Shineys encountered: 0
+[00:44:09] Info | Pokemon caught: 1
+[00:44:09] Info | Pokemon encountered: 109
+[00:44:09] A Wild Meowth Attacks!
+[00:44:15] You have run away from the wild Pokemon.
+[00:44:27] Info | Shineys encountered: 0
+[00:44:27] Info | Pokemon caught: 1
+[00:44:27] Info | Pokemon encountered: 110
+[00:44:27] A Wild Meowth Attacks!
+[00:44:32] You have run away from the wild Pokemon.
+[00:44:42] Info | Shineys encountered: 0
+[00:44:42] Info | Pokemon caught: 1
+[00:44:42] Info | Pokemon encountered: 111
+[00:44:42] A Wild Meowth Attacks!
+[00:44:48] You have run away from the wild Pokemon.
+[00:44:55] Info | Shineys encountered: 0
+[00:44:56] Info | Pokemon caught: 1
+[00:44:56] Info | Pokemon encountered: 112
+[00:44:56] A Wild Meowth Attacks!
+[00:45:01] You have run away from the wild Pokemon.
+[00:45:11] Info | Shineys encountered: 0
+[00:45:11] Info | Pokemon caught: 1
+[00:45:11] Info | Pokemon encountered: 113
+[00:45:11] A Wild Meowth Attacks!
+[00:45:17] You have run away from the wild Pokemon.
+[00:45:26] Info | Shineys encountered: 0
+[00:45:26] Info | Pokemon caught: 1
+[00:45:26] Info | Pokemon encountered: 114
+[00:45:26] A Wild Cleffa Attacks!
+[00:45:30] Come Back, Xatu!
+[00:45:30] Go, Kingler!
+[00:45:30] Cleffa used Copycat.
+[00:45:34] Kingler Attacks Cleffa with False Swipe.
+[00:45:34] A Critical Hit!
+[00:45:34] Cleffa used Sing.
+[00:45:34] Kingler fell asleep!
+[00:45:38] You throw a Pokeball.
+[00:45:38] Info | Shineys encountered: 0
+[00:45:38] Info | Pokemon caught: 2
+[00:45:38] Info | Pokemon encountered: 114
+[00:45:38] Success! You caught Cleffa!
+[00:45:49] Position updated: Love Island (38, 36) [OK, lag, distance=1]
+[00:45:50] Info | Shineys encountered: 0
+[00:45:50] Info | Pokemon caught: 2
+[00:45:50] Info | Pokemon encountered: 115
+[00:45:50] A Wild Poochyena Attacks!
+[00:45:55] You have run away from the wild Pokemon.
+[00:46:01] Info | Shineys encountered: 0
+[00:46:01] Info | Pokemon caught: 2
+[00:46:01] Info | Pokemon encountered: 116
+[00:46:01] A Wild Meowth Attacks!
+[00:46:06] You have run away from the wild Pokemon.
+[00:46:17] Position updated: Love Island (38, 36) [OK, lag, distance=1]
+[00:46:17] Info | Shineys encountered: 0
+[00:46:17] Info | Pokemon caught: 2
+[00:46:17] Info | Pokemon encountered: 117
+[00:46:17] A Wild Meowth Attacks!
+[00:46:22] You have run away from the wild Pokemon.
+[00:46:28] Info | Shineys encountered: 0
+[00:46:28] Info | Pokemon caught: 2
+[00:46:28] Info | Pokemon encountered: 118
+[00:46:28] A Wild Meowth Attacks!
+[00:46:33] You have run away from the wild Pokemon.
+[00:46:43] Info | Shineys encountered: 0
+[00:46:43] Info | Pokemon caught: 2
+[00:46:43] Info | Pokemon encountered: 119
+[00:46:43] A Wild Oddish Attacks!
+[00:46:47] You have run away from the wild Pokemon.
+[00:46:56] Info | Shineys encountered: 0
+[00:46:56] Info | Pokemon caught: 2
+[00:46:56] Info | Pokemon encountered: 120
+[00:46:56] A Wild Oddish Attacks!
+[00:47:00] You have run away from the wild Pokemon.
+[00:47:11] Info | Shineys encountered: 0
+[00:47:11] Info | Pokemon caught: 2
+[00:47:11] Info | Pokemon encountered: 121
+[00:47:11] A Wild Poochyena Attacks!
+[00:47:15] You have run away from the wild Pokemon.
+[00:47:23] Info | Shineys encountered: 0
+[00:47:23] Info | Pokemon caught: 2
+[00:47:23] Info | Pokemon encountered: 122
+[00:47:23] A Wild Oddish Attacks!
+[00:47:28] You have run away from the wild Pokemon.
+[00:47:36] Info | Shineys encountered: 0
+[00:47:36] Info | Pokemon caught: 2
+[00:47:36] Info | Pokemon encountered: 123
+[00:47:36] A Wild Cleffa Attacks!
+[00:47:42] You have run away from the wild Pokemon.
+[00:47:50] Info | Shineys encountered: 0
+[00:47:50] Info | Pokemon caught: 2
+[00:47:50] Info | Pokemon encountered: 124
+[00:47:50] A Wild Meowth Attacks!
+[00:47:56] You have run away from the wild Pokemon.
+[00:48:03] Info | Shineys encountered: 0
+[00:48:03] Info | Pokemon caught: 2
+[00:48:03] Info | Pokemon encountered: 125
+[00:48:03] A Wild Oddish Attacks!
+[00:48:09] You have run away from the wild Pokemon.
+[00:48:15] Info | Shineys encountered: 0
+[00:48:15] Info | Pokemon caught: 2
+[00:48:15] Info | Pokemon encountered: 126
+[00:48:15] A Wild Oddish Attacks!
+[00:48:20] You have run away from the wild Pokemon.
+[00:48:28] Info | Shineys encountered: 0
+[00:48:28] Info | Pokemon caught: 2
+[00:48:28] Info | Pokemon encountered: 127
+[00:48:28] A Wild Oddish Attacks!
+[00:48:34] You have run away from the wild Pokemon.
+[00:48:43] Info | Shineys encountered: 0
+[00:48:43] Info | Pokemon caught: 2
+[00:48:43] Info | Pokemon encountered: 128
+[00:48:43] A Wild Oddish Attacks!
+[00:48:49] You have run away from the wild Pokemon.
+[00:48:58] Info | Shineys encountered: 0
+[00:48:58] Info | Pokemon caught: 2
+[00:48:58] Info | Pokemon encountered: 129
+[00:48:58] A Wild Meowth Attacks!
+[00:49:03] You have run away from the wild Pokemon.
+[00:49:09] Info | Shineys encountered: 0
+[00:49:09] Info | Pokemon caught: 2
+[00:49:09] Info | Pokemon encountered: 130
+[00:49:09] A Wild Oddish Attacks!
+[00:49:14] You have run away from the wild Pokemon.
+[00:49:23] Info | Shineys encountered: 0
+[00:49:23] Info | Pokemon caught: 2
+[00:49:23] Info | Pokemon encountered: 131
+[00:49:23] A Wild Oddish Attacks!
+[00:49:28] You have run away from the wild Pokemon.
+[00:49:36] Info | Shineys encountered: 0
+[00:49:36] Info | Pokemon caught: 2
+[00:49:36] Info | Pokemon encountered: 132
+[00:49:36] A Wild Oddish Attacks!
+[00:49:42] You have run away from the wild Pokemon.
+[00:49:52] Info | Shineys encountered: 0
+[00:49:52] Info | Pokemon caught: 2
+[00:49:52] Info | Pokemon encountered: 133
+[00:49:52] A Wild Nidoran F Attacks!
+[00:49:57] You have run away from the wild Pokemon.
+[00:50:02] Info | Shineys encountered: 0
+[00:50:02] Info | Pokemon caught: 2
+[00:50:02] Info | Pokemon encountered: 134
+[00:50:02] A Wild Oddish Attacks!
+[00:50:08] You have run away from the wild Pokemon.
+[00:50:16] Info | Shineys encountered: 0
+[00:50:16] Info | Pokemon caught: 2
+[00:50:16] Info | Pokemon encountered: 135
+[00:50:16] A Wild Meowth Attacks!
+[00:50:22] You have run away from the wild Pokemon.
+[00:50:30] Info | Shineys encountered: 0
+[00:50:30] Info | Pokemon caught: 2
+[00:50:30] Info | Pokemon encountered: 136
+[00:50:30] A Wild Gloom Attacks!
+[00:50:34] You have run away from the wild Pokemon.
+[00:50:41] Info | Shineys encountered: 0
+[00:50:41] Info | Pokemon caught: 2
+[00:50:41] Info | Pokemon encountered: 137
+[00:50:41] A Wild Poochyena Attacks!
+[00:50:46] You have run away from the wild Pokemon.
+[00:50:55] Info | Shineys encountered: 0
+[00:50:55] Info | Pokemon caught: 2
+[00:50:55] Info | Pokemon encountered: 138
+[00:50:55] A Wild Oddish Attacks!
+[00:51:00] You have run away from the wild Pokemon.
+[00:51:10] Info | Shineys encountered: 0
+[00:51:10] Info | Pokemon caught: 2
+[00:51:10] Info | Pokemon encountered: 139
+[00:51:10] A Wild Meowth Attacks!
+[00:51:15] You have run away from the wild Pokemon.
+[00:51:30] Info | Shineys encountered: 0
+[00:51:30] Info | Pokemon caught: 2
+[00:51:31] Info | Pokemon encountered: 140
+[00:51:31] A Wild Meowth Attacks!
+[00:51:36] You have run away from the wild Pokemon.
+[00:51:42] Info | Shineys encountered: 0
+[00:51:42] Info | Pokemon caught: 2
+[00:51:42] Info | Pokemon encountered: 141
+[00:51:42] A Wild Meowth Attacks!
+[00:51:46] You have run away from the wild Pokemon.
+[00:51:55] Info | Shineys encountered: 0
+[00:51:55] Info | Pokemon caught: 2
+[00:51:55] Info | Pokemon encountered: 142
+[00:51:55] A Wild Oddish Attacks!
+[00:51:59] You have run away from the wild Pokemon.
+[00:52:06] Info | Shineys encountered: 0
+[00:52:06] Info | Pokemon caught: 2
+[00:52:06] Info | Pokemon encountered: 143
+[00:52:06] A Wild Oddish Attacks!
+[00:52:12] You have run away from the wild Pokemon.
+[00:52:23] Info | Shineys encountered: 0
+[00:52:23] Info | Pokemon caught: 2
+[00:52:23] Info | Pokemon encountered: 144
+[00:52:23] A Wild Woobat Attacks!
+[00:52:28] Come Back, Xatu!
+[00:52:28] Go, Kingler!
+[00:52:28] Woobat Attacks Kingler with Assurance.
+[00:52:32] Kingler is Fast Asleep...
+[00:52:32] Woobat used Odor Sleuth.
+[00:52:35] Kingler is Fast Asleep...
+[00:52:35] Woobat used Odor Sleuth.
+[00:52:38] Kingler woke up!
+[00:52:38] Kingler Attacks Woobat with False Swipe.
+[00:52:38] Woobat Attacks Kingler with Assurance.
+[00:52:41] You throw a Pokeball.
+[00:52:41] Oh no! The Pokemon broke free!
+[00:52:41] Woobat Attacks Kingler with Assurance.
+[00:52:44] You throw a Pokeball.
+[00:52:44] Oh no! The Pokemon broke free!
+[00:52:44] Woobat Attacks Kingler with Assurance.
+[00:52:48] You throw a Pokeball.
+[00:52:48] Oh no! The Pokemon broke free!
+[00:52:48] Woobat Attacks Kingler with Assurance.
+[00:52:52] You throw a Pokeball.
+[00:52:52] Info | Shineys encountered: 0
+[00:52:52] Info | Pokemon caught: 3
+[00:52:52] Info | Pokemon encountered: 144
+[00:52:52] Success! You caught Woobat!
+[00:53:07] Info | Shineys encountered: 0
+[00:53:07] Info | Pokemon caught: 3
+[00:53:07] Info | Pokemon encountered: 145
+[00:53:07] A Wild Meowth Attacks!
+[00:53:11] You have run away from the wild Pokemon.
+[00:53:19] Info | Shineys encountered: 0
+[00:53:19] Info | Pokemon caught: 3
+[00:53:19] Info | Pokemon encountered: 146
+[00:53:19] A Wild Deerling Attacks!
+[00:53:25] Come Back, Xatu!
+[00:53:25] Go, Kingler!
+[00:53:25] Deerling Attacks Kingler with Double Kick.
+[00:53:25] The Attack hits.
+[00:53:25] The Attack hits.
+[00:53:28] Kingler Attacks Deerling with False Swipe.
+[00:53:28] Deerling Attacks Kingler with Double Kick.
+[00:53:28] The Attack hits.
+[00:53:28] The Attack hits.
+[00:53:32] You throw a Pokeball.
+[00:53:32] Info | Shineys encountered: 0
+[00:53:32] Info | Pokemon caught: 4
+[00:53:32] Info | Pokemon encountered: 146
+[00:53:32] Success! You caught Deerling!
+[00:53:39] Position updated: Love Island (38, 36) [OK, lag, distance=1]
+[00:53:39] Info | Shineys encountered: 0
+[00:53:39] Info | Pokemon caught: 4
+[00:53:39] Info | Pokemon encountered: 147
+[00:53:39] A Wild Nidoran F Attacks!
+[00:53:44] You have run away from the wild Pokemon.
+[00:53:55] Info | Shineys encountered: 0
+[00:53:55] Info | Pokemon caught: 4
+[00:53:55] Info | Pokemon encountered: 148
+[00:53:55] A Wild Meowth Attacks!
+[00:53:59] You have run away from the wild Pokemon.
+[00:54:08] Info | Shineys encountered: 0
+[00:54:08] Info | Pokemon caught: 4
+[00:54:08] Info | Pokemon encountered: 149
+[00:54:08] A Wild Meowth Attacks!
+[00:54:13] You have run away from the wild Pokemon.
+[00:54:23] Info | Shineys encountered: 0
+[00:54:23] Info | Pokemon caught: 4
+[00:54:23] Info | Pokemon encountered: 150
+[00:54:23] A Wild Meowth Attacks!
+[00:54:29] You have run away from the wild Pokemon.
+[00:54:40] Info | Shineys encountered: 0
+[00:54:40] Info | Pokemon caught: 4
+[00:54:40] Info | Pokemon encountered: 151
+[00:54:40] A Wild Meowth Attacks!
+[00:54:45] You have run away from the wild Pokemon.
+[00:54:53] Info | Shineys encountered: 0
+[00:54:53] Info | Pokemon caught: 4
+[00:54:54] Info | Pokemon encountered: 152
+[00:54:54] A Wild Meowth Attacks!
+[00:54:58] You have run away from the wild Pokemon.
+[00:55:10] Info | Shineys encountered: 0
+[00:55:10] Info | Pokemon caught: 4
+[00:55:10] Info | Pokemon encountered: 153
+[00:55:10] A Wild Meowth Attacks!
+[00:55:14] You have run away from the wild Pokemon.
+[00:55:22] Info | Shineys encountered: 0
+[00:55:22] Info | Pokemon caught: 4
+[00:55:22] Info | Pokemon encountered: 154
+[00:55:22] A Wild Oddish Attacks!
+[00:55:28] You have run away from the wild Pokemon.
+[00:55:35] Info | Shineys encountered: 0
+[00:55:35] Info | Pokemon caught: 4
+[00:55:35] Info | Pokemon encountered: 155
+[00:55:35] A Wild Meowth Attacks!
+[00:55:40] You have run away from the wild Pokemon.
+[00:55:48] Info | Shineys encountered: 0
+[00:55:48] Info | Pokemon caught: 4
+[00:55:48] Info | Pokemon encountered: 156
+[00:55:48] A Wild Oddish Attacks!
+[00:55:52] You have run away from the wild Pokemon.
+[00:56:03] Info | Shineys encountered: 0
+[00:56:03] Info | Pokemon caught: 4
+[00:56:03] Info | Pokemon encountered: 157
+[00:56:03] A Wild Meowth Attacks!
+[00:56:08] You have run away from the wild Pokemon.
+[00:56:15] Info | Shineys encountered: 0
+[00:56:15] Info | Pokemon caught: 4
+[00:56:15] Info | Pokemon encountered: 158
+[00:56:15] A Wild Oddish Attacks!
+[00:56:20] You have run away from the wild Pokemon.
+[00:56:27] Info | Shineys encountered: 0
+[00:56:27] Info | Pokemon caught: 4
+[00:56:27] Info | Pokemon encountered: 159
+[00:56:27] A Wild Meowth Attacks!
+[00:56:32] You have run away from the wild Pokemon.
+[00:56:41] Info | Shineys encountered: 0
+[00:56:41] Info | Pokemon caught: 4
+[00:56:41] Info | Pokemon encountered: 160
+[00:56:41] A Wild Poochyena Attacks!
+[00:56:46] You have run away from the wild Pokemon.
+[00:56:54] Info | Shineys encountered: 0
+[00:56:54] Info | Pokemon caught: 4
+[00:56:54] Info | Pokemon encountered: 161
+[00:56:54] A Wild Meowth Attacks!
+[00:56:59] You have run away from the wild Pokemon.
+[00:57:08] Info | Shineys encountered: 0
+[00:57:08] Info | Pokemon caught: 4
+[00:57:08] Info | Pokemon encountered: 162
+[00:57:08] A Wild Meowth Attacks!
+[00:57:13] You have run away from the wild Pokemon.
+[00:57:23] Info | Shineys encountered: 0
+[00:57:23] Info | Pokemon caught: 4
+[00:57:23] Info | Pokemon encountered: 163
+[00:57:23] A Wild Oddish Attacks!
+[00:57:28] You have run away from the wild Pokemon.
+[00:57:36] Info | Shineys encountered: 0
+[00:57:36] Info | Pokemon caught: 4
+[00:57:36] Info | Pokemon encountered: 164
+[00:57:36] A Wild Nidoran F Attacks!
+[00:57:42] You have run away from the wild Pokemon.
+[00:57:50] Info | Shineys encountered: 0
+[00:57:50] Info | Pokemon caught: 4
+[00:57:50] Info | Pokemon encountered: 165
+[00:57:50] A Wild Oddish Attacks!
+[00:57:56] You have run away from the wild Pokemon.
+[00:58:12] Info | Shineys encountered: 0
+[00:58:12] Info | Pokemon caught: 4
+[00:58:12] Info | Pokemon encountered: 166
+[00:58:12] A Wild Oddish Attacks!
+[00:58:18] You have run away from the wild Pokemon.
+[00:58:26] Info | Shineys encountered: 0
+[00:58:26] Info | Pokemon caught: 4
+[00:58:26] Info | Pokemon encountered: 167
+[00:58:26] A Wild Gloom Attacks!
+[00:58:31] You have run away from the wild Pokemon.
+[00:58:39] Info | Shineys encountered: 0
+[00:58:39] Info | Pokemon caught: 4
+[00:58:39] Info | Pokemon encountered: 168
+[00:58:39] A Wild Oddish Attacks!
+[00:58:45] You have run away from the wild Pokemon.
+[00:58:58] Info | Shineys encountered: 0
+[00:58:58] Info | Pokemon caught: 4
+[00:58:58] Info | Pokemon encountered: 169
+[00:58:58] A Wild Poochyena Attacks!
+[00:59:04] You have run away from the wild Pokemon.
+[00:59:12] Info | Shineys encountered: 0
+[00:59:12] Info | Pokemon caught: 4
+[00:59:12] Info | Pokemon encountered: 170
+[00:59:12] A Wild Meowth Attacks!
+[00:59:16] You have run away from the wild Pokemon.
+[00:59:28] Info | Shineys encountered: 0
+[00:59:28] Info | Pokemon caught: 4
+[00:59:28] Info | Pokemon encountered: 171
+[00:59:28] A Wild Nidoran F Attacks!
+[00:59:33] You have run away from the wild Pokemon.
+[00:59:38] Info | Shineys encountered: 0
+[00:59:38] Info | Pokemon caught: 4
+[00:59:38] Info | Pokemon encountered: 172
+[00:59:38] A Wild Meowth Attacks!
+[00:59:43] You have run away from the wild Pokemon.
+[00:59:49] Info | Shineys encountered: 0
+[00:59:49] Info | Pokemon caught: 4
+[00:59:49] Info | Pokemon encountered: 173
+[00:59:49] A Wild Gloom Attacks!
+[00:59:54] You have run away from the wild Pokemon.
+[01:00:02] Info | Shineys encountered: 0
+[01:00:02] Info | Pokemon caught: 4
+[01:00:02] Info | Pokemon encountered: 174
+[01:00:02] A Wild Meowth Attacks!
+[01:00:07] You have run away from the wild Pokemon.
+[01:00:16] Info | Shineys encountered: 0
+[01:00:16] Info | Pokemon caught: 4
+[01:00:16] Info | Pokemon encountered: 175
+[01:00:16] A Wild Gloom Attacks!
+[01:00:21] You have run away from the wild Pokemon.
+[01:00:27] Info | Shineys encountered: 0
+[01:00:27] Info | Pokemon caught: 4
+[01:00:27] Info | Pokemon encountered: 176
+[01:00:27] A Wild Oddish Attacks!
+[01:00:32] You have run away from the wild Pokemon.
+[01:00:45] Info | Shineys encountered: 0
+[01:00:45] Info | Pokemon caught: 4
+[01:00:45] Info | Pokemon encountered: 177
+[01:00:45] A Wild Oddish Attacks!
+[01:00:49] You have run away from the wild Pokemon.
+[01:00:56] Info | Shineys encountered: 0
+[01:00:56] Info | Pokemon caught: 4
+[01:00:56] Info | Pokemon encountered: 178
+[01:00:56] A Wild Poochyena Attacks!
+[01:01:01] You have run away from the wild Pokemon.
+[01:01:09] Info | Shineys encountered: 0
+[01:01:09] Info | Pokemon caught: 4
+[01:01:09] Info | Pokemon encountered: 179
+[01:01:09] A Wild Meowth Attacks!
+[01:01:13] You have run away from the wild Pokemon.
+[01:01:27] Info | Shineys encountered: 0
+[01:01:27] Info | Pokemon caught: 4
+[01:01:27] Info | Pokemon encountered: 180
+[01:01:27] A Wild Oddish Attacks!
+[01:01:33] You have run away from the wild Pokemon.
+[01:01:43] Info | Shineys encountered: 0
+[01:01:43] Info | Pokemon caught: 4
+[01:01:43] Info | Pokemon encountered: 181
+[01:01:43] A Wild Poochyena Attacks!
+[01:01:47] You have run away from the wild Pokemon.
+[01:01:56] Info | Shineys encountered: 0
+[01:01:56] Info | Pokemon caught: 4
+[01:01:56] Info | Pokemon encountered: 182
+[01:01:56] A Wild Oddish Attacks!
+[01:02:02] You have run away from the wild Pokemon.
+[01:02:15] Info | Shineys encountered: 0
+[01:02:15] Info | Pokemon caught: 4
+[01:02:15] Info | Pokemon encountered: 183
+[01:02:15] A Wild Oddish Attacks!
+[01:02:20] You have run away from the wild Pokemon.
+[01:02:30] Info | Shineys encountered: 0
+[01:02:30] Info | Pokemon caught: 4
+[01:02:30] Info | Pokemon encountered: 184
+[01:02:30] A Wild Meowth Attacks!
+[01:02:36] You have run away from the wild Pokemon.
+[01:02:45] Info | Shineys encountered: 0
+[01:02:45] Info | Pokemon caught: 4
+[01:02:45] Info | Pokemon encountered: 185
+[01:02:45] A Wild Gloom Attacks!
+[01:02:50] You have run away from the wild Pokemon.
+[01:02:59] Info | Shineys encountered: 0
+[01:02:59] Info | Pokemon caught: 4
+[01:02:59] Info | Pokemon encountered: 186
+[01:02:59] A Wild Gloom Attacks!
+[01:03:04] You have run away from the wild Pokemon.
+[01:03:16] Info | Shineys encountered: 0
+[01:03:16] Info | Pokemon caught: 4
+[01:03:16] Info | Pokemon encountered: 187
+[01:03:16] A Wild Meowth Attacks!
+[01:03:21] You have run away from the wild Pokemon.
+[01:03:28] Info | Shineys encountered: 0
+[01:03:28] Info | Pokemon caught: 4
+[01:03:28] Info | Pokemon encountered: 188
+[01:03:28] A Wild Meowth Attacks!
+[01:03:33] You have run away from the wild Pokemon.
+[01:03:40] Info | Shineys encountered: 0
+[01:03:40] Info | Pokemon caught: 4
+[01:03:40] Info | Pokemon encountered: 189
+[01:03:40] A Wild Oddish Attacks!
+[01:03:46] You have run away from the wild Pokemon.
+[01:03:53] Info | Shineys encountered: 0
+[01:03:53] Info | Pokemon caught: 4
+[01:03:53] Info | Pokemon encountered: 190
+[01:03:53] A Wild Meowth Attacks!
+[01:03:58] You have run away from the wild Pokemon.
+[01:04:07] Info | Shineys encountered: 0
+[01:04:07] Info | Pokemon caught: 4
+[01:04:07] Info | Pokemon encountered: 191
+[01:04:07] A Wild Oddish Attacks!
+[01:04:12] You have run away from the wild Pokemon.
+[01:04:20] Info | Shineys encountered: 0
+[01:04:20] Info | Pokemon caught: 4
+[01:04:20] Info | Pokemon encountered: 192
+[01:04:20] A Wild Igglybuff Attacks!
+[01:04:26] You have run away from the wild Pokemon.
+[01:04:33] Info | Shineys encountered: 0
+[01:04:33] Info | Pokemon caught: 4
+[01:04:33] Info | Pokemon encountered: 193
+[01:04:33] A Wild Nidoran F Attacks!
+[01:04:38] You have run away from the wild Pokemon.
+[01:04:49] Info | Shineys encountered: 0
+[01:04:49] Info | Pokemon caught: 4
+[01:04:49] Info | Pokemon encountered: 194
+[01:04:49] A Wild Oddish Attacks!
+[01:04:54] You have run away from the wild Pokemon.
+[01:05:02] Info | Shineys encountered: 0
+[01:05:02] Info | Pokemon caught: 4
+[01:05:02] Info | Pokemon encountered: 195
+[01:05:02] A Wild Meowth Attacks!
+[01:05:07] You have run away from the wild Pokemon.
+[01:05:16] Info | Shineys encountered: 0
+[01:05:16] Info | Pokemon caught: 4
+[01:05:16] Info | Pokemon encountered: 196
+[01:05:16] A Wild Meowth Attacks!
+[01:05:20] You have run away from the wild Pokemon.
+[01:05:30] Info | Shineys encountered: 0
+[01:05:30] Info | Pokemon caught: 4
+[01:05:30] Info | Pokemon encountered: 197
+[01:05:30] A Wild Meowth Attacks!
+[01:05:35] You have run away from the wild Pokemon.
+[01:05:47] Info | Shineys encountered: 0
+[01:05:47] Info | Pokemon caught: 4
+[01:05:47] Info | Pokemon encountered: 198
+[01:05:47] A Wild Meowth Attacks!
+[01:05:52] You have run away from the wild Pokemon.
+[01:06:00] Info | Shineys encountered: 0
+[01:06:00] Info | Pokemon caught: 4
+[01:06:00] Info | Pokemon encountered: 199
+[01:06:00] A Wild Oddish Attacks!
+[01:06:04] You have run away from the wild Pokemon.
+[01:06:13] Info | Shineys encountered: 0
+[01:06:13] Info | Pokemon caught: 4
+[01:06:13] Info | Pokemon encountered: 200
+[01:06:13] A Wild Oddish Attacks!
+[01:06:19] You have run away from the wild Pokemon.
+[01:06:27] Info | Shineys encountered: 0
+[01:06:27] Info | Pokemon caught: 4
+[01:06:27] Info | Pokemon encountered: 201
+[01:06:27] A Wild Meowth Attacks!
+[01:06:32] You have run away from the wild Pokemon.
+[01:06:39] Info | Shineys encountered: 0
+[01:06:39] Info | Pokemon caught: 4
+[01:06:39] Info | Pokemon encountered: 202
+[01:06:39] A Wild Oddish Attacks!
+[01:06:44] You have run away from the wild Pokemon.
+[01:06:51] Info | Shineys encountered: 0
+[01:06:51] Info | Pokemon caught: 4
+[01:06:51] Info | Pokemon encountered: 203
+[01:06:51] A Wild Oddish Attacks!
+[01:06:56] You have run away from the wild Pokemon.
+[01:07:02] Info | Shineys encountered: 0
+[01:07:02] Info | Pokemon caught: 4
+[01:07:02] Info | Pokemon encountered: 204
+[01:07:02] A Wild Gloom Attacks!
+[01:07:08] You have run away from the wild Pokemon.
+[01:07:16] Info | Shineys encountered: 0
+[01:07:17] Info | Pokemon caught: 4
+[01:07:17] Info | Pokemon encountered: 205
+[01:07:17] A Wild Meowth Attacks!
+[01:07:22] You have run away from the wild Pokemon.
+[01:07:32] Info | Shineys encountered: 0
+[01:07:32] Info | Pokemon caught: 4
+[01:07:32] Info | Pokemon encountered: 206
+[01:07:32] A Wild Meowth Attacks!
+[01:07:37] You have run away from the wild Pokemon.
+[01:07:43] Info | Shineys encountered: 0
+[01:07:43] Info | Pokemon caught: 4
+[01:07:43] Info | Pokemon encountered: 207
+[01:07:43] A Wild Meowth Attacks!
+[01:07:48] You have run away from the wild Pokemon.
+[01:07:58] Info | Shineys encountered: 0
+[01:07:58] Info | Pokemon caught: 4
+[01:07:58] Info | Pokemon encountered: 208
+[01:07:58] A Wild Oddish Attacks!
+[01:08:02] You have run away from the wild Pokemon.
+[01:08:25] Connected, authenticating...
+[01:08:26] Authenticated successfully!
+[01:08:26] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[01:08:26] Position updated: Love Island (37, 36) [OK]
+[01:08:35] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[01:08:35] Make sure your configuration is done properly. Press Start.
+[01:08:49] Connected, authenticating...
+[01:08:49] Authenticated successfully!
+[01:08:49] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[01:08:50] Position updated: Love Island (37, 36) [OK]
+[01:08:51] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[01:08:51] Make sure your configuration is done properly. Press Start.
+[01:10:01] Connected, authenticating...
+[01:10:01] Authenticated successfully!
+[01:10:01] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[01:10:01] Position updated: Love Island (37, 36) [OK]
+[01:10:04] Script "Time of Day Catcher" by "Crazy3001" successfully loaded
+[01:10:04] Catch by Morning, Day and Night. Make sure your configuration is done properly. Press Start.
+[01:10:06] Script "Basic Catcher" by "Crazy3001" successfully loaded
+[01:10:06] Make sure your configuration is done properly. Press Start.
+[01:10:07] Bot started
+[01:10:07] Pathfinder v(2.3.0) : Loading default settings.
+[01:10:07] Pathfinder: Warning, cannot Headbutt trees.
+[01:10:07] ****************************************BOT STARTED*****************************************
+[01:10:12] Info | Shineys encountered: 0
+[01:10:12] Info | Pokemon caught: 0
+[01:10:12] Info | Pokemon encountered: 1
+[01:10:12] A Wild Oddish Attacks!
+[01:10:17] You have run away from the wild Pokemon.
+[01:10:25] Info | Shineys encountered: 0
+[01:10:25] Info | Pokemon caught: 0
+[01:10:25] Info | Pokemon encountered: 2
+[01:10:25] A Wild Meowth Attacks!
+[01:10:30] You have run away from the wild Pokemon.
+[01:10:38] Info | Shineys encountered: 0
+[01:10:38] Info | Pokemon caught: 0
+[01:10:38] Info | Pokemon encountered: 3
+[01:10:38] A Wild Meowth Attacks!
+[01:10:43] You have run away from the wild Pokemon.
+[01:10:49] Info | Shineys encountered: 0
+[01:10:49] Info | Pokemon caught: 0
+[01:10:49] Info | Pokemon encountered: 4
+[01:10:49] A Wild Oddish Attacks!
+[01:10:54] You have run away from the wild Pokemon.
+[01:11:00] Info | Shineys encountered: 0
+[01:11:00] Info | Pokemon caught: 0
+[01:11:00] Info | Pokemon encountered: 5
+[01:11:00] A Wild Oddish Attacks!
+[01:11:06] You have run away from the wild Pokemon.
+[01:11:15] Info | Shineys encountered: 0
+[01:11:15] Info | Pokemon caught: 0
+[01:11:15] Info | Pokemon encountered: 6
+[01:11:15] A Wild Nidoran F Attacks!
+[01:11:21] You have run away from the wild Pokemon.
+[01:11:28] Info | Shineys encountered: 0
+[01:11:28] Info | Pokemon caught: 0
+[01:11:28] Info | Pokemon encountered: 7
+[01:11:28] A Wild Nidoran F Attacks!
+[01:11:34] You have run away from the wild Pokemon.
+[01:11:42] Info | Shineys encountered: 0
+[01:11:42] Info | Pokemon caught: 0
+[01:11:42] Info | Pokemon encountered: 8
+[01:11:42] A Wild Meowth Attacks!
+[01:11:47] You have run away from the wild Pokemon.
+[01:11:55] Info | Shineys encountered: 0
+[01:11:55] Info | Pokemon caught: 0
+[01:11:55] Info | Pokemon encountered: 9
+[01:11:55] A Wild Oddish Attacks!
+[01:12:01] You have run away from the wild Pokemon.
+[01:12:10] Info | Shineys encountered: 0
+[01:12:10] Info | Pokemon caught: 0
+[01:12:10] Info | Pokemon encountered: 10
+[01:12:10] A Wild Meowth Attacks!
+[01:12:15] You have run away from the wild Pokemon.
+[01:12:24] Info | Shineys encountered: 0
+[01:12:24] Info | Pokemon caught: 0
+[01:12:24] Info | Pokemon encountered: 11
+[01:12:24] A Wild Meowth Attacks!
+[01:12:29] You have run away from the wild Pokemon.
+[01:12:36] Info | Shineys encountered: 0
+[01:12:36] Info | Pokemon caught: 0
+[01:12:36] Info | Pokemon encountered: 12
+[01:12:36] A Wild Meowth Attacks!
+[01:12:42] You have run away from the wild Pokemon.
+[01:12:48] Info | Shineys encountered: 0
+[01:12:48] Info | Pokemon caught: 0
+[01:12:48] Info | Pokemon encountered: 13
+[01:12:48] A Wild Igglybuff Attacks!
+[01:12:53] You have run away from the wild Pokemon.
+[01:13:10] Position updated: Love Island (37, 36) [OK, lag, distance=1]
+[01:13:10] Info | Shineys encountered: 0
+[01:13:10] Info | Pokemon caught: 0
+[01:13:10] Info | Pokemon encountered: 14
+[01:13:10] A Wild Oddish Attacks!
+[01:13:14] You have run away from the wild Pokemon.
+[01:13:22] Info | Shineys encountered: 0
+[01:13:22] Info | Pokemon caught: 0
+[01:13:22] Info | Pokemon encountered: 15
+[01:13:22] A Wild Meowth Attacks!
+[01:13:27] You have run away from the wild Pokemon.
+[01:13:42] Position updated: Love Island (36, 36) [OK, lag, distance=1]
+[01:13:42] Info | Shineys encountered: 0
+[01:13:42] Info | Pokemon caught: 0
+[01:13:42] Info | Pokemon encountered: 16
+[01:13:42] A Wild Meowth Attacks!
+[01:13:47] You have run away from the wild Pokemon.
+[01:13:55] Info | Shineys encountered: 0
+[01:13:55] Info | Pokemon caught: 0
+[01:13:55] Info | Pokemon encountered: 17
+[01:13:55] A Wild Nidoran F Attacks!
+[01:13:59] You have run away from the wild Pokemon.
+[01:14:07] Info | Shineys encountered: 0
+[01:14:07] Info | Pokemon caught: 0
+[01:14:07] Info | Pokemon encountered: 18
+[01:14:07] A Wild Oddish Attacks!
+[01:14:12] You have run away from the wild Pokemon.
+[01:14:23] Info | Shineys encountered: 0
+[01:14:24] Info | Pokemon caught: 0
+[01:14:24] Info | Pokemon encountered: 19
+[01:14:24] A Wild Oddish Attacks!
+[01:14:29] You have run away from the wild Pokemon.
+[01:14:36] Info | Shineys encountered: 0
+[01:14:36] Info | Pokemon caught: 0
+[01:14:36] Info | Pokemon encountered: 20
+[01:14:36] A Wild Meowth Attacks!
+[01:14:42] You have run away from the wild Pokemon.
+[01:14:49] Info | Shineys encountered: 0
+[01:14:49] Info | Pokemon caught: 0
+[01:14:49] Info | Pokemon encountered: 21
+[01:14:49] A Wild Oddish Attacks!
+[01:14:54] You have run away from the wild Pokemon.
+[01:15:02] Info | Shineys encountered: 0
+[01:15:02] Info | Pokemon caught: 0
+[01:15:02] Info | Pokemon encountered: 22
+[01:15:02] A Wild Meowth Attacks!
+[01:15:07] You have run away from the wild Pokemon.
+[01:15:13] Info | Shineys encountered: 0
+[01:15:13] Info | Pokemon caught: 0
+[01:15:13] Info | Pokemon encountered: 23
+[01:15:13] A Wild Meowth Attacks!
+[01:15:19] You have run away from the wild Pokemon.
+[01:15:26] Info | Shineys encountered: 0
+[01:15:26] Info | Pokemon caught: 0
+[01:15:26] Info | Pokemon encountered: 24
+[01:15:26] A Wild Oddish Attacks!
+[01:15:30] You have run away from the wild Pokemon.
+[01:15:43] Info | Shineys encountered: 0
+[01:15:43] Info | Pokemon caught: 0
+[01:15:43] Info | Pokemon encountered: 25
+[01:15:43] A Wild Meowth Attacks!
+[01:15:49] You have run away from the wild Pokemon.
+[01:15:59] Info | Shineys encountered: 0
+[01:15:59] Info | Pokemon caught: 0
+[01:15:59] Info | Pokemon encountered: 26
+[01:15:59] A Wild Oddish Attacks!
+[01:16:05] You have run away from the wild Pokemon.
+[01:16:10] Info | Shineys encountered: 0
+[01:16:10] Info | Pokemon caught: 0
+[01:16:10] Info | Pokemon encountered: 27
+[01:16:10] A Wild Gloom Attacks!
+[01:16:15] You have run away from the wild Pokemon.
+[01:16:24] Info | Shineys encountered: 0
+[01:16:24] Info | Pokemon caught: 0
+[01:16:24] Info | Pokemon encountered: 28
+[01:16:24] A Wild Oddish Attacks!
+[01:16:30] You have run away from the wild Pokemon.
+[01:16:38] Info | Shineys encountered: 0
+[01:16:38] Info | Pokemon caught: 0
+[01:16:38] Info | Pokemon encountered: 29
+[01:16:38] A Wild Meowth Attacks!
+[01:16:43] You have run away from the wild Pokemon.
+[01:16:53] Info | Shineys encountered: 0
+[01:16:53] Info | Pokemon caught: 0
+[01:16:53] Info | Pokemon encountered: 30
+[01:16:53] A Wild Oddish Attacks!
+[01:16:58] You have run away from the wild Pokemon.
+[01:17:09] Position updated: Love Island (38, 36) [OK, lag, distance=1]
+[01:17:09] Info | Shineys encountered: 0
+[01:17:09] Info | Pokemon caught: 0
+[01:17:09] Info | Pokemon encountered: 31
+[01:17:09] A Wild Gloom Attacks!
+[01:17:14] You have run away from the wild Pokemon.
+[01:17:27] Info | Shineys encountered: 0
+[01:17:27] Info | Pokemon caught: 0
+[01:17:27] Info | Pokemon encountered: 32
+[01:17:27] A Wild Gloom Attacks!
+[01:17:32] You have run away from the wild Pokemon.
+[01:17:39] Info | Shineys encountered: 0
+[01:17:39] Info | Pokemon caught: 0
+[01:17:39] Info | Pokemon encountered: 33
+[01:17:39] A Wild Meowth Attacks!
+[01:17:44] You have run away from the wild Pokemon.
+[01:17:51] Info | Shineys encountered: 0
+[01:17:51] Info | Pokemon caught: 0
+[01:17:51] Info | Pokemon encountered: 34
+[01:17:51] A Wild Meowth Attacks!
+[01:17:57] You have run away from the wild Pokemon.
+[01:18:03] Info | Shineys encountered: 0
+[01:18:03] Info | Pokemon caught: 0
+[01:18:03] Info | Pokemon encountered: 35
+[01:18:03] A Wild Oddish Attacks!
+[01:18:08] You have run away from the wild Pokemon.
+[01:18:18] Info | Shineys encountered: 0
+[01:18:18] Info | Pokemon caught: 0
+[01:18:18] Info | Pokemon encountered: 36
+[01:18:18] A Wild Meowth Attacks!
+[01:18:23] You have run away from the wild Pokemon.
+[01:18:31] Info | Shineys encountered: 0
+[01:18:31] Info | Pokemon caught: 0
+[01:18:31] Info | Pokemon encountered: 37
+[01:18:31] A Wild Meowth Attacks!
+[01:18:37] You have run away from the wild Pokemon.
+[01:18:46] Position updated: Love Island (37, 36) [OK, lag, distance=1]
+[01:18:46] Info | Shineys encountered: 0
+[01:18:46] Info | Pokemon caught: 0
+[01:18:46] Info | Pokemon encountered: 38
+[01:18:46] A Wild Meowth Attacks!
+[01:18:52] You have run away from the wild Pokemon.
+[01:19:03] Info | Shineys encountered: 0
+[01:19:03] Info | Pokemon caught: 0
+[01:19:03] Info | Pokemon encountered: 39
+[01:19:03] A Wild Gloom Attacks!
+[01:19:03] You have run away from the wild Pokemon.
+[01:19:09] Position updated: Love Island (36, 36) [OK, lag, distance=1]
+[01:19:09] Info | Shineys encountered: 0
+[01:19:09] Info | Pokemon caught: 0
+[01:19:09] Info | Pokemon encountered: 40
+[01:19:09] A Wild Meowth Attacks!
+[01:19:15] You have run away from the wild Pokemon.
+[01:19:22] Info | Shineys encountered: 0
+[01:19:22] Info | Pokemon caught: 0
+[01:19:22] Info | Pokemon encountered: 41
+[01:19:22] A Wild Meowth Attacks!
+[01:19:28] You have run away from the wild Pokemon.
+[01:19:38] Info | Shineys encountered: 0
+[01:19:38] Info | Pokemon caught: 0
+[01:19:38] Info | Pokemon encountered: 42
+[01:19:38] A Wild Gloom Attacks!
+[01:19:43] You have run away from the wild Pokemon.
+[01:19:50] Info | Shineys encountered: 0
+[01:19:51] Info | Pokemon caught: 0
+[01:19:51] Info | Pokemon encountered: 43
+[01:19:51] A Wild Meowth Attacks!
+[01:19:55] You have run away from the wild Pokemon.
+[01:20:06] Info | Shineys encountered: 0
+[01:20:06] Info | Pokemon caught: 0
+[01:20:06] Info | Pokemon encountered: 44
+[01:20:06] A Wild Meowth Attacks!
+[01:20:10] You have run away from the wild Pokemon.
+[01:20:18] Info | Shineys encountered: 0
+[01:20:18] Info | Pokemon caught: 0
+[01:20:18] Info | Pokemon encountered: 45
+[01:20:18] A Wild Meowth Attacks!
+[01:20:23] You have run away from the wild Pokemon.
+[01:20:33] Info | Shineys encountered: 0
+[01:20:33] Info | Pokemon caught: 0
+[01:20:33] Info | Pokemon encountered: 46
+[01:20:33] A Wild Meowth Attacks!
+[01:20:37] You have run away from the wild Pokemon.
+[01:20:44] Info | Shineys encountered: 0
+[01:20:44] Info | Pokemon caught: 0
+[01:20:44] Info | Pokemon encountered: 47
+[01:20:44] A Wild Gloom Attacks!
+[01:20:49] You have run away from the wild Pokemon.
+[01:20:59] Info | Shineys encountered: 0
+[01:20:59] Info | Pokemon caught: 0
+[01:20:59] Info | Pokemon encountered: 48
+[01:20:59] A Wild Meowth Attacks!
+[01:21:04] You have run away from the wild Pokemon.
+[01:21:12] Info | Shineys encountered: 0
+[01:21:12] Info | Pokemon caught: 0
+[01:21:12] Info | Pokemon encountered: 49
+[01:21:12] A Wild Oddish Attacks!
+[01:21:17] You have run away from the wild Pokemon.
+[01:21:25] Info | Shineys encountered: 0
+[01:21:25] Info | Pokemon caught: 0
+[01:21:25] Info | Pokemon encountered: 50
+[01:21:25] A Wild Oddish Attacks!
+[01:21:30] You have run away from the wild Pokemon.
+[01:21:37] Info | Shineys encountered: 0
+[01:21:37] Info | Pokemon caught: 0
+[01:21:37] Info | Pokemon encountered: 51
+[01:21:37] A Wild Poochyena Attacks!
+[01:21:42] You have run away from the wild Pokemon.
+[01:21:50] Info | Shineys encountered: 0
+[01:21:50] Info | Pokemon caught: 0
+[01:21:50] Info | Pokemon encountered: 52
+[01:21:50] A Wild Meowth Attacks!
+[01:21:56] You have run away from the wild Pokemon.
+[01:22:04] Info | Shineys encountered: 0
+[01:22:04] Info | Pokemon caught: 0
+[01:22:04] Info | Pokemon encountered: 53
+[01:22:04] A Wild Oddish Attacks!
+[01:22:10] You have run away from the wild Pokemon.
+[01:22:22] Info | Shineys encountered: 0
+[01:22:22] Info | Pokemon caught: 0
+[01:22:22] Info | Pokemon encountered: 54
+[01:22:22] A Wild Oddish Attacks!
+[01:22:26] You have run away from the wild Pokemon.
+[01:22:32] Info | Shineys encountered: 0
+[01:22:32] Info | Pokemon caught: 0
+[01:22:32] Info | Pokemon encountered: 55
+[01:22:32] A Wild Meowth Attacks!
+[01:22:36] You have run away from the wild Pokemon.
+[01:22:44] Info | Shineys encountered: 0
+[01:22:44] Info | Pokemon caught: 0
+[01:22:44] Info | Pokemon encountered: 56
+[01:22:44] A Wild Meowth Attacks!
+[01:22:49] You have run away from the wild Pokemon.
+[01:22:56] Info | Shineys encountered: 0
+[01:22:56] Info | Pokemon caught: 0
+[01:22:56] Info | Pokemon encountered: 57
+[01:22:56] A Wild Meowth Attacks!
+[01:23:02] You have run away from the wild Pokemon.
+[01:23:09] Info | Shineys encountered: 0
+[01:23:09] Info | Pokemon caught: 0
+[01:23:09] Info | Pokemon encountered: 58
+[01:23:09] A Wild Meowth Attacks!
+[01:23:15] You have run away from the wild Pokemon.
+[01:23:26] Info | Shineys encountered: 0
+[01:23:26] Info | Pokemon caught: 0
+[01:23:26] Info | Pokemon encountered: 59
+[01:23:26] A Wild Oddish Attacks!
+[01:23:32] You have run away from the wild Pokemon.
+[01:23:43] Info | Shineys encountered: 0
+[01:23:43] Info | Pokemon caught: 0
+[01:23:43] Info | Pokemon encountered: 60
+[01:23:43] A Wild Meowth Attacks!
+[01:23:48] You have run away from the wild Pokemon.
+[01:24:04] Info | Shineys encountered: 0
+[01:24:04] Info | Pokemon caught: 0
+[01:24:04] Info | Pokemon encountered: 61
+[01:24:04] A Wild Sunkern Attacks!
+[01:24:09] You have run away from the wild Pokemon.
+[01:24:15] Info | Shineys encountered: 0
+[01:24:15] Info | Pokemon caught: 0
+[01:24:15] Info | Pokemon encountered: 62
+[01:24:15] A Wild Sunkern Attacks!
+[01:24:20] You have run away from the wild Pokemon.
+[01:24:29] Info | Shineys encountered: 0
+[01:24:29] Info | Pokemon caught: 0
+[01:24:29] Info | Pokemon encountered: 63
+[01:24:29] A Wild Sunkern Attacks!
+[01:24:34] You have run away from the wild Pokemon.
+[01:24:42] Info | Shineys encountered: 0
+[01:24:42] Info | Pokemon caught: 0
+[01:24:42] Info | Pokemon encountered: 64
+[01:24:42] A Wild Tyrogue Attacks!
+[01:24:47] Come Back, Xatu!
+[01:24:47] Go, Kingler!
+[01:24:47] Tyrogue Attacks Kingler with Tackle.
+[01:24:51] Kingler Attacks Tyrogue with False Swipe.
+[01:24:51] Tyrogue Attacks Kingler with Tackle.
+[01:24:54] You throw a Pokeball.
+[01:24:54] Info | Shineys encountered: 0
+[01:24:54] Info | Pokemon caught: 1
+[01:24:54] Info | Pokemon encountered: 64
+[01:24:54] Success! You caught Tyrogue!
+[01:25:05] Info | Shineys encountered: 0
+[01:25:05] Info | Pokemon caught: 1
+[01:25:05] Info | Pokemon encountered: 65
+[01:25:05] A Wild Sunkern Attacks!
+[01:25:11] You have run away from the wild Pokemon.
+[01:25:20] Info | Shineys encountered: 0
+[01:25:20] Info | Pokemon caught: 1
+[01:25:20] Info | Pokemon encountered: 66
+[01:25:20] A Wild Sunkern Attacks!
+[01:25:26] You have run away from the wild Pokemon.
+[01:25:34] Info | Shineys encountered: 0
+[01:25:34] Info | Pokemon caught: 1
+[01:25:34] Info | Pokemon encountered: 67
+[01:25:34] A Wild Happiny Attacks!
+[01:25:38] Come Back, Xatu!
+[01:25:38] Go, Kingler!
+[01:25:38] Happiny used Charm.
+[01:25:38] Kingler's ATK harshly fell!
+[01:25:40] Kingler Attacks Happiny with False Swipe.
+[01:25:40] Happiny used Sweet Kiss.
+[01:25:40] Kingler became Confused!
+[01:25:44] You throw a Pokeball.
+[01:25:44] Oh no! The Pokemon broke free!
+[01:25:44] Happiny used Refresh.
+[01:25:44] But it failed!
+[01:25:47] You throw a Pokeball.
+[01:25:47] Info | Shineys encountered: 0
+[01:25:47] Info | Pokemon caught: 2
+[01:25:47] Info | Pokemon encountered: 67
+[01:25:47] Success! You caught Happiny!
+[01:25:55] Info | Shineys encountered: 0
+[01:25:55] Info | Pokemon caught: 2
+[01:25:55] Info | Pokemon encountered: 68
+[01:25:55] A Wild Doduo Attacks!
+[01:26:01] You have run away from the wild Pokemon.
+[01:26:11] Info | Shineys encountered: 0
+[01:26:11] Info | Pokemon caught: 2
+[01:26:11] Info | Pokemon encountered: 69
+[01:26:11] A Wild Sunkern Attacks!
+[01:26:16] You have run away from the wild Pokemon.
+[01:26:23] Info | Shineys encountered: 0
+[01:26:23] Info | Pokemon caught: 2
+[01:26:23] Info | Pokemon encountered: 70
+[01:26:23] A Wild Sunkern Attacks!
+[01:26:29] You have run away from the wild Pokemon.
+[01:26:44] Info | Shineys encountered: 0
+[01:26:44] Info | Pokemon caught: 2
+[01:26:44] Info | Pokemon encountered: 71
+[01:26:44] A Wild Hoppip Attacks!
+[01:26:48] You have run away from the wild Pokemon.
+[01:26:55] Info | Shineys encountered: 0
+[01:26:55] Info | Pokemon caught: 2
+[01:26:55] Info | Pokemon encountered: 72
+[01:26:55] A Wild Doduo Attacks!
+[01:27:00] You have run away from the wild Pokemon.
+[01:27:08] Info | Shineys encountered: 0
+[01:27:08] Info | Pokemon caught: 2
+[01:27:08] Info | Pokemon encountered: 73
+[01:27:08] A Wild Sunkern Attacks!
+[01:27:13] You have run away from the wild Pokemon.
+[01:27:25] Info | Shineys encountered: 0
+[01:27:25] Info | Pokemon caught: 2
+[01:27:25] Info | Pokemon encountered: 74
+[01:27:25] A Wild Sunkern Attacks!
+[01:27:29] You have run away from the wild Pokemon.
+[01:27:50] Info | Shineys encountered: 0
+[01:27:50] Info | Pokemon caught: 2
+[01:27:50] Info | Pokemon encountered: 75
+[01:27:50] A Wild Nidoran M Attacks!
+[01:27:55] You have run away from the wild Pokemon.
+[01:28:02] Info | Shineys encountered: 0
+[01:28:02] Info | Pokemon caught: 2
+[01:28:02] Info | Pokemon encountered: 76
+[01:28:02] A Wild Sunkern Attacks!
+[01:28:06] You have run away from the wild Pokemon.
+[01:28:16] Info | Shineys encountered: 0
+[01:28:16] Info | Pokemon caught: 2
+[01:28:16] Info | Pokemon encountered: 77
+[01:28:16] A Wild Sunkern Attacks!
+[01:28:20] You have run away from the wild Pokemon.
+[01:28:29] Info | Shineys encountered: 0
+[01:28:29] Info | Pokemon caught: 2
+[01:28:29] Info | Pokemon encountered: 78
+[01:28:29] A Wild Bellossom Attacks!
+[01:28:34] You have run away from the wild Pokemon.
+[01:28:41] Info | Shineys encountered: 0
+[01:28:41] Info | Pokemon caught: 2
+[01:28:41] Info | Pokemon encountered: 79
+[01:28:41] A Wild Doduo Attacks!
+[01:28:47] You have run away from the wild Pokemon.
+[01:28:57] Info | Shineys encountered: 0
+[01:28:57] Info | Pokemon caught: 2
+[01:28:57] Info | Pokemon encountered: 80
+[01:28:57] A Wild Sunkern Attacks!
+[01:29:02] You have run away from the wild Pokemon.
+[01:29:11] Info | Shineys encountered: 0
+[01:29:11] Info | Pokemon caught: 2
+[01:29:11] Info | Pokemon encountered: 81
+[01:29:11] A Wild Sunkern Attacks!
+[01:29:17] You have run away from the wild Pokemon.
+[01:29:28] Info | Shineys encountered: 0
+[01:29:28] Info | Pokemon caught: 2
+[01:29:28] Info | Pokemon encountered: 82
+[01:29:28] A Wild Nidoran M Attacks!
+[01:29:34] You have run away from the wild Pokemon.
+[01:29:39] Info | Shineys encountered: 0
+[01:29:39] Info | Pokemon caught: 2
+[01:29:39] Info | Pokemon encountered: 83
+[01:29:39] A Wild Doduo Attacks!
+[01:29:45] You have run away from the wild Pokemon.
+[01:29:51] Info | Shineys encountered: 0
+[01:29:51] Info | Pokemon caught: 2
+[01:29:51] Info | Pokemon encountered: 84
+[01:29:51] A Wild Sunkern Attacks!
+[01:29:56] You have run away from the wild Pokemon.
+[01:30:10] Info | Shineys encountered: 0
+[01:30:10] Info | Pokemon caught: 2
+[01:30:10] Info | Pokemon encountered: 85
+[01:30:10] A Wild Doduo Attacks!
+[01:30:15] You have run away from the wild Pokemon.
+[01:30:24] Info | Shineys encountered: 0
+[01:30:24] Info | Pokemon caught: 2
+[01:30:24] Info | Pokemon encountered: 86
+[01:30:24] A Wild Doduo Attacks!
+[01:30:30] You have run away from the wild Pokemon.
+[01:30:38] Info | Shineys encountered: 0
+[01:30:38] Info | Pokemon caught: 2
+[01:30:38] Info | Pokemon encountered: 87
+[01:30:38] A Wild Doduo Attacks!
+[01:30:44] You have run away from the wild Pokemon.
+[01:30:52] Info | Shineys encountered: 0
+[01:30:52] Info | Pokemon caught: 2
+[01:30:52] Info | Pokemon encountered: 88
+[01:30:52] A Wild Doduo Attacks!
+[01:30:56] You have run away from the wild Pokemon.
+[01:31:03] Info | Shineys encountered: 0
+[01:31:03] Info | Pokemon caught: 2
+[01:31:03] Info | Pokemon encountered: 89
+[01:31:03] A Wild Nidoran M Attacks!
+[01:31:08] You have run away from the wild Pokemon.
+[01:31:16] Info | Shineys encountered: 0
+[01:31:16] Info | Pokemon caught: 2
+[01:31:16] Info | Pokemon encountered: 90
+[01:31:16] A Wild Nidoran M Attacks!
+[01:31:22] You have run away from the wild Pokemon.
+[01:31:30] Info | Shineys encountered: 0
+[01:31:30] Info | Pokemon caught: 2
+[01:31:30] Info | Pokemon encountered: 91
+[01:31:30] A Wild Sunkern Attacks!
+[01:31:35] You have run away from the wild Pokemon.
+[01:31:43] Info | Shineys encountered: 0
+[01:31:43] Info | Pokemon caught: 2
+[01:31:43] Info | Pokemon encountered: 92
+[01:31:43] A Wild Sunkern Attacks!
+[01:31:48] You have run away from the wild Pokemon.
+[01:31:58] Info | Shineys encountered: 0
+[01:31:58] Info | Pokemon caught: 2
+[01:31:58] Info | Pokemon encountered: 93
+[01:31:58] A Wild Sunkern Attacks!
+[01:32:03] You have run away from the wild Pokemon.
+[01:32:10] Info | Shineys encountered: 0
+[01:32:10] Info | Pokemon caught: 2
+[01:32:10] Info | Pokemon encountered: 94
+[01:32:10] A Wild Sunkern Attacks!
+[01:32:16] You have run away from the wild Pokemon.
+[01:32:22] Info | Shineys encountered: 0
+[01:32:22] Info | Pokemon caught: 2
+[01:32:22] Info | Pokemon encountered: 95
+[01:32:22] A Wild Doduo Attacks!
+[01:32:28] You have run away from the wild Pokemon.
+[01:32:36] Info | Shineys encountered: 0
+[01:32:36] Info | Pokemon caught: 2
+[01:32:36] Info | Pokemon encountered: 96
+[01:32:36] A Wild Doduo Attacks!
+[01:32:41] You have run away from the wild Pokemon.
+[01:32:52] Info | Shineys encountered: 0
+[01:32:52] Info | Pokemon caught: 2
+[01:32:52] Info | Pokemon encountered: 97
+[01:32:52] A Wild Sunkern Attacks!
+[01:32:56] You have run away from the wild Pokemon.
+[01:33:11] Info | Shineys encountered: 0
+[01:33:11] Info | Pokemon caught: 2
+[01:33:11] Info | Pokemon encountered: 98
+[01:33:11] A Wild Doduo Attacks!
+[01:33:16] You have run away from the wild Pokemon.
+[01:33:26] Info | Shineys encountered: 0
+[01:33:26] Info | Pokemon caught: 2
+[01:33:26] Info | Pokemon encountered: 99
+[01:33:26] A Wild Doduo Attacks!
+[01:33:31] You have run away from the wild Pokemon.
+[01:33:41] Info | Shineys encountered: 0
+[01:33:41] Info | Pokemon caught: 2
+[01:33:41] Info | Pokemon encountered: 100
+[01:33:41] A Wild Hoppip Attacks!
+[01:33:46] You have run away from the wild Pokemon.
+[01:33:53] Info | Shineys encountered: 0
+[01:33:53] Info | Pokemon caught: 2
+[01:33:53] Info | Pokemon encountered: 101
+[01:33:53] A Wild Doduo Attacks!
+[01:33:58] You have run away from the wild Pokemon.
+[01:34:07] Info | Shineys encountered: 0
+[01:34:07] Info | Pokemon caught: 2
+[01:34:07] Info | Pokemon encountered: 102
+[01:34:07] A Wild Doduo Attacks!
+[01:34:12] You have run away from the wild Pokemon.
+[01:34:23] Info | Shineys encountered: 0
+[01:34:23] Info | Pokemon caught: 2
+[01:34:23] Info | Pokemon encountered: 103
+[01:34:23] A Wild Sunkern Attacks!
+[01:34:29] You have run away from the wild Pokemon.
+[01:34:37] Info | Shineys encountered: 0
+[01:34:37] Info | Pokemon caught: 2
+[01:34:37] Info | Pokemon encountered: 104
+[01:34:37] A Wild Hoppip Attacks!
+[01:34:41] You have run away from the wild Pokemon.
+[01:34:51] Info | Shineys encountered: 0
+[01:34:51] Info | Pokemon caught: 2
+[01:34:51] Info | Pokemon encountered: 105
+[01:34:51] A Wild Nidoran M Attacks!
+[01:34:56] You have run away from the wild Pokemon.
+[01:35:03] Info | Shineys encountered: 0
+[01:35:03] Info | Pokemon caught: 2
+[01:35:03] Info | Pokemon encountered: 106
+[01:35:03] A Wild Doduo Attacks!
+[01:35:08] You have run away from the wild Pokemon.
+[01:35:18] Info | Shineys encountered: 0
+[01:35:18] Info | Pokemon caught: 2
+[01:35:18] Info | Pokemon encountered: 107
+[01:35:18] A Wild Doduo Attacks!
+[01:35:23] You have run away from the wild Pokemon.
+[01:35:32] Info | Shineys encountered: 0
+[01:35:32] Info | Pokemon caught: 2
+[01:35:32] Info | Pokemon encountered: 108
+[01:35:32] A Wild Doduo Attacks!
+[01:35:37] You have run away from the wild Pokemon.
+[01:35:47] Info | Shineys encountered: 0
+[01:35:47] Info | Pokemon caught: 2
+[01:35:47] Info | Pokemon encountered: 109
+[01:35:47] A Wild Doduo Attacks!
+[01:35:52] You have run away from the wild Pokemon.
+[01:36:01] Info | Shineys encountered: 0
+[01:36:01] Info | Pokemon caught: 2
+[01:36:01] Info | Pokemon encountered: 110
+[01:36:01] A Wild Doduo Attacks!
+[01:36:06] You have run away from the wild Pokemon.
+[01:36:13] Info | Shineys encountered: 0
+[01:36:13] Info | Pokemon caught: 2
+[01:36:13] Info | Pokemon encountered: 111
+[01:36:13] A Wild Nidoran M Attacks!
+[01:36:19] You have run away from the wild Pokemon.
+[01:36:27] Info | Shineys encountered: 0
+[01:36:27] Info | Pokemon caught: 2
+[01:36:27] Info | Pokemon encountered: 112
+[01:36:27] A Wild Doduo Attacks!
+[01:36:31] You have run away from the wild Pokemon.
+[01:36:39] Info | Shineys encountered: 0
+[01:36:39] Info | Pokemon caught: 2
+[01:36:39] Info | Pokemon encountered: 113
+[01:36:39] A Wild Sunkern Attacks!
+[01:36:44] You have run away from the wild Pokemon.
+[01:36:54] Info | Shineys encountered: 0
+[01:36:54] Info | Pokemon caught: 2
+[01:36:54] Info | Pokemon encountered: 114
+[01:36:54] A Wild Doduo Attacks!
+[01:36:59] You have run away from the wild Pokemon.
+[01:37:07] Info | Shineys encountered: 0
+[01:37:07] Info | Pokemon caught: 2
+[01:37:07] Info | Pokemon encountered: 115
+[01:37:07] A Wild Hoppip Attacks!
+[01:37:12] You have run away from the wild Pokemon.
+[01:37:18] Info | Shineys encountered: 0
+[01:37:18] Info | Pokemon caught: 2
+[01:37:18] Info | Pokemon encountered: 116
+[01:37:18] A Wild Doduo Attacks!
+[01:37:24] You have run away from the wild Pokemon.
+[01:37:36] Info | Shineys encountered: 0
+[01:37:36] Info | Pokemon caught: 2
+[01:37:36] Info | Pokemon encountered: 117
+[01:37:36] A Wild Doduo Attacks!
+[01:37:42] You have run away from the wild Pokemon.
+[01:37:53] Info | Shineys encountered: 0
+[01:37:53] Info | Pokemon caught: 2
+[01:37:53] Info | Pokemon encountered: 118
+[01:37:53] A Wild Sunkern Attacks!
+[01:37:59] You have run away from the wild Pokemon.
+[01:38:08] Info | Shineys encountered: 0
+[01:38:08] Info | Pokemon caught: 2
+[01:38:08] Info | Pokemon encountered: 119
+[01:38:08] A Wild Doduo Attacks!
+[01:38:14] You have run away from the wild Pokemon.
+[01:38:22] Info | Shineys encountered: 0
+[01:38:22] Info | Pokemon caught: 2
+[01:38:22] Info | Pokemon encountered: 120
+[01:38:22] A Wild Doduo Attacks!
+[01:38:28] You have run away from the wild Pokemon.
+[01:38:36] Info | Shineys encountered: 0
+[01:38:36] Info | Pokemon caught: 2
+[01:38:36] Info | Pokemon encountered: 121
+[01:38:36] A Wild Sunkern Attacks!
+[01:38:41] You have run away from the wild Pokemon.
+[01:38:48] Info | Shineys encountered: 0
+[01:38:48] Info | Pokemon caught: 2
+[01:38:48] Info | Pokemon encountered: 122
+[01:38:48] A Wild Doduo Attacks!
+[01:38:52] You have run away from the wild Pokemon.
+[01:39:00] Info | Shineys encountered: 0
+[01:39:00] Info | Pokemon caught: 2
+[01:39:00] Info | Pokemon encountered: 123
+[01:39:00] A Wild Doduo Attacks!
+[01:39:05] You have run away from the wild Pokemon.
+[01:39:14] Info | Shineys encountered: 0
+[01:39:14] Info | Pokemon caught: 2
+[01:39:14] Info | Pokemon encountered: 124
+[01:39:14] A Wild Doduo Attacks!
+[01:39:20] You have run away from the wild Pokemon.
+[01:39:26] Position updated: Love Island (36, 36) [OK, lag, distance=1]
+[01:39:27] Info | Shineys encountered: 0
+[01:39:27] Info | Pokemon caught: 2
+[01:39:27] Info | Pokemon encountered: 125
+[01:39:27] A Wild Sunkern Attacks!
+[01:39:32] You have run away from the wild Pokemon.
+[01:39:45] Info | Shineys encountered: 0
+[01:39:45] Info | Pokemon caught: 2
+[01:39:45] Info | Pokemon encountered: 126
+[01:39:45] A Wild Sunkern Attacks!
+[01:39:49] You have run away from the wild Pokemon.
+[01:40:00] Info | Shineys encountered: 0
+[01:40:00] Info | Pokemon caught: 2
+[01:40:00] Info | Pokemon encountered: 127
+[01:40:00] A Wild Doduo Attacks!
+[01:40:05] You have run away from the wild Pokemon.
+[01:40:11] Info | Shineys encountered: 0
+[01:40:11] Info | Pokemon caught: 2
+[01:40:11] Info | Pokemon encountered: 128
+[01:40:11] A Wild Sunkern Attacks!
+[01:40:16] You have run away from the wild Pokemon.
+[01:40:22] Info | Shineys encountered: 0
+[01:40:22] Info | Pokemon caught: 2
+[01:40:22] Info | Pokemon encountered: 129
+[01:40:22] A Wild Doduo Attacks!
+[01:40:28] You have run away from the wild Pokemon.
+[01:40:35] Info | Shineys encountered: 0
+[01:40:35] Info | Pokemon caught: 2
+[01:40:35] Info | Pokemon encountered: 130
+[01:40:35] A Wild Sunkern Attacks!
+[01:40:40] You have run away from the wild Pokemon.
+[01:40:49] Info | Shineys encountered: 0
+[01:40:49] Info | Pokemon caught: 2
+[01:40:49] Info | Pokemon encountered: 131
+[01:40:49] A Wild Sunkern Attacks!
+[01:40:55] You have run away from the wild Pokemon.
+[01:41:04] Info | Shineys encountered: 0
+[01:41:04] Info | Pokemon caught: 2
+[01:41:04] Info | Pokemon encountered: 132
+[01:41:04] A Wild Nidoran M Attacks!
+[01:41:10] You have run away from the wild Pokemon.
+[01:41:18] Info | Shineys encountered: 0
+[01:41:18] Info | Pokemon caught: 2
+[01:41:18] Info | Pokemon encountered: 133
+[01:41:18] A Wild Sunkern Attacks!
+[01:41:22] You have run away from the wild Pokemon.
+[01:41:32] Info | Shineys encountered: 0
+[01:41:32] Info | Pokemon caught: 2
+[01:41:32] Info | Pokemon encountered: 134
+[01:41:32] A Wild Doduo Attacks!
+[01:41:38] You have run away from the wild Pokemon.
+[01:41:50] Info | Shineys encountered: 0
+[01:41:50] Info | Pokemon caught: 2
+[01:41:50] Info | Pokemon encountered: 135
+[01:41:50] A Wild Doduo Attacks!
+[01:41:55] You have run away from the wild Pokemon.
+[01:42:02] Info | Shineys encountered: 0
+[01:42:02] Info | Pokemon caught: 2
+[01:42:02] Info | Pokemon encountered: 136
+[01:42:02] A Wild Doduo Attacks!
+[01:42:06] You have run away from the wild Pokemon.
+[01:42:16] Info | Shineys encountered: 0
+[01:42:16] Info | Pokemon caught: 2
+[01:42:16] Info | Pokemon encountered: 137
+[01:42:16] A Wild Doduo Attacks!
+[01:42:20] You have run away from the wild Pokemon.
+[01:42:27] Info | Shineys encountered: 0
+[01:42:27] Info | Pokemon caught: 2
+[01:42:27] Info | Pokemon encountered: 138
+[01:42:27] A Wild Sunkern Attacks!
+[01:42:32] You have run away from the wild Pokemon.
+[01:42:45] Info | Shineys encountered: 0
+[01:42:45] Info | Pokemon caught: 2
+[01:42:45] Info | Pokemon encountered: 139
+[01:42:45] A Wild Sunkern Attacks!
+[01:42:51] You have run away from the wild Pokemon.
+[01:42:57] Info | Shineys encountered: 0
+[01:42:57] Info | Pokemon caught: 2
+[01:42:57] Info | Pokemon encountered: 140
+[01:42:57] A Wild Sunkern Attacks!
+[01:43:02] You have run away from the wild Pokemon.
+[01:43:09] Info | Shineys encountered: 0
+[01:43:09] Info | Pokemon caught: 2
+[01:43:09] Info | Pokemon encountered: 141
+[01:43:09] A Wild Doduo Attacks!
+[01:43:13] You have run away from the wild Pokemon.
+[01:43:21] Info | Shineys encountered: 0
+[01:43:21] Info | Pokemon caught: 2
+[01:43:21] Info | Pokemon encountered: 142
+[01:43:21] A Wild Pichu Attacks!
+[01:43:27] Come Back, Xatu!
+[01:43:27] Go, Kingler!
+[01:43:27] Pichu Attacks Kingler with ThunderShock.
+[01:43:27] It's Super Effective!
+[01:43:30] Kingler Attacks Pichu with False Swipe.
+[01:43:30] Pichu Attacks Kingler with ThunderShock.
+[01:43:30] It's Super Effective!
+[01:43:33] You throw a Pokeball.
+[01:43:33] Info | Shineys encountered: 0
+[01:43:33] Info | Pokemon caught: 3
+[01:43:33] Info | Pokemon encountered: 142
+[01:43:33] Success! You caught Pichu!
+[01:43:41] Info | Shineys encountered: 0
+[01:43:41] Info | Pokemon caught: 3
+[01:43:41] Info | Pokemon encountered: 143
+[01:43:41] A Wild Doduo Attacks!
+[01:43:46] You have run away from the wild Pokemon.
+[01:43:54] Info | Shineys encountered: 0
+[01:43:54] Info | Pokemon caught: 3
+[01:43:54] Info | Pokemon encountered: 144
+[01:43:54] A Wild Sunkern Attacks!
+[01:44:00] You have run away from the wild Pokemon.
+[01:44:12] Info | Shineys encountered: 0
+[01:44:12] Info | Pokemon caught: 3
+[01:44:12] Info | Pokemon encountered: 145
+[01:44:12] A Wild Doduo Attacks!
+[01:44:17] You have run away from the wild Pokemon.
+[01:44:23] Info | Shineys encountered: 0
+[01:44:23] Info | Pokemon caught: 3
+[01:44:23] Info | Pokemon encountered: 146
+[01:44:23] A Wild Sunkern Attacks!
+[01:44:29] You have run away from the wild Pokemon.
+[01:44:37] Info | Shineys encountered: 0
+[01:44:37] Info | Pokemon caught: 3
+[01:44:37] Info | Pokemon encountered: 147
+[01:44:37] A Wild Doduo Attacks!
+[01:44:43] You have run away from the wild Pokemon.
+[01:44:50] Info | Shineys encountered: 0
+[01:44:50] Info | Pokemon caught: 3
+[01:44:50] Info | Pokemon encountered: 148
+[01:44:50] A Wild Doduo Attacks!
+[01:44:56] You have run away from the wild Pokemon.
+[01:45:05] Info | Shineys encountered: 0
+[01:45:05] Info | Pokemon caught: 3
+[01:45:05] Info | Pokemon encountered: 149
+[01:45:05] A Wild Sunkern Attacks!
+[01:45:11] You have run away from the wild Pokemon.
+[01:45:19] Info | Shineys encountered: 0
+[01:45:19] Info | Pokemon caught: 3
+[01:45:19] Info | Pokemon encountered: 150
+[01:45:19] A Wild Nidoran M Attacks!
+[01:45:25] You have run away from the wild Pokemon.
+[01:45:32] Info | Shineys encountered: 0
+[01:45:32] Info | Pokemon caught: 3
+[01:45:32] Info | Pokemon encountered: 151
+[01:45:32] A Wild Pichu Attacks!
+[01:45:37] You have run away from the wild Pokemon.
+[01:45:46] Info | Shineys encountered: 0
+[01:45:46] Info | Pokemon caught: 3
+[01:45:46] Info | Pokemon encountered: 152
+[01:45:46] A Wild Doduo Attacks!
+[01:45:51] You have run away from the wild Pokemon.
+[01:46:00] Info | Shineys encountered: 0
+[01:46:00] Info | Pokemon caught: 3
+[01:46:00] Info | Pokemon encountered: 153
+[01:46:00] A Wild Hoppip Attacks!
+[01:46:05] You have run away from the wild Pokemon.
+[01:46:13] Info | Shineys encountered: 0
+[01:46:13] Info | Pokemon caught: 3
+[01:46:13] Info | Pokemon encountered: 154
+[01:46:13] A Wild Doduo Attacks!
+[01:46:17] You have run away from the wild Pokemon.
+[01:46:27] Info | Shineys encountered: 0
+[01:46:27] Info | Pokemon caught: 3
+[01:46:27] Info | Pokemon encountered: 155
+[01:46:27] A Wild Sunkern Attacks!
+[01:46:33] You have run away from the wild Pokemon.
+[01:46:38] Info | Shineys encountered: 0
+[01:46:38] Info | Pokemon caught: 3
+[01:46:38] Info | Pokemon encountered: 156
+[01:46:38] A Wild Doduo Attacks!
+[01:46:44] You have run away from the wild Pokemon.
+[01:46:52] Info | Shineys encountered: 0
+[01:46:52] Info | Pokemon caught: 3
+[01:46:52] Info | Pokemon encountered: 157
+[01:46:52] A Wild Doduo Attacks!
+[01:46:58] You have run away from the wild Pokemon.
+[01:47:04] Info | Shineys encountered: 0
+[01:47:04] Info | Pokemon caught: 3
+[01:47:04] Info | Pokemon encountered: 158
+[01:47:04] A Wild Sunkern Attacks!
+[01:47:09] You have run away from the wild Pokemon.
+[01:47:19] Info | Shineys encountered: 0
+[01:47:19] Info | Pokemon caught: 3
+[01:47:19] Info | Pokemon encountered: 159
+[01:47:19] A Wild Doduo Attacks!
+[01:47:24] You have run away from the wild Pokemon.
+[01:47:31] Info | Shineys encountered: 0
+[01:47:31] Info | Pokemon caught: 3
+[01:47:31] Info | Pokemon encountered: 160
+[01:47:31] A Wild Nidoran M Attacks!
+[01:47:36] You have run away from the wild Pokemon.
+[01:47:44] Info | Shineys encountered: 0
+[01:47:44] Info | Pokemon caught: 3
+[01:47:44] Info | Pokemon encountered: 161
+[01:47:44] A Wild Sunkern Attacks!
+[01:47:49] You have run away from the wild Pokemon.
+[01:48:00] Info | Shineys encountered: 0
+[01:48:00] Info | Pokemon caught: 3
+[01:48:00] Info | Pokemon encountered: 162
+[01:48:00] A Wild Doduo Attacks!
+[01:48:06] You have run away from the wild Pokemon.
+[01:48:14] Info | Shineys encountered: 0
+[01:48:14] Info | Pokemon caught: 3
+[01:48:14] Info | Pokemon encountered: 163
+[01:48:14] A Wild Sunkern Attacks!
+[01:48:19] You have run away from the wild Pokemon.
+[01:48:29] Info | Shineys encountered: 0
+[01:48:29] Info | Pokemon caught: 3
+[01:48:29] Info | Pokemon encountered: 164
+[01:48:29] A Wild Doduo Attacks!
+[01:48:35] You have run away from the wild Pokemon.
+[01:48:41] Info | Shineys encountered: 0
+[01:48:41] Info | Pokemon caught: 3
+[01:48:41] Info | Pokemon encountered: 165
+[01:48:41] A Wild Sunkern Attacks!
+[01:48:46] You have run away from the wild Pokemon.
+[01:48:52] Info | Shineys encountered: 0
+[01:48:52] Info | Pokemon caught: 3
+[01:48:52] Info | Pokemon encountered: 166
+[01:48:52] A Wild Sunkern Attacks!
+[01:48:58] You have run away from the wild Pokemon.
+[01:49:06] Info | Shineys encountered: 0
+[01:49:06] Info | Pokemon caught: 3
+[01:49:06] Info | Pokemon encountered: 167
+[01:49:06] A Wild Hoppip Attacks!
+[01:49:11] You have run away from the wild Pokemon.
+[01:49:24] Info | Shineys encountered: 0
+[01:49:24] Info | Pokemon caught: 3
+[01:49:24] Info | Pokemon encountered: 168
+[01:49:24] A Wild Sunkern Attacks!
+[01:49:30] You have run away from the wild Pokemon.
+[01:49:40] Info | Shineys encountered: 0
+[01:49:40] Info | Pokemon caught: 3
+[01:49:40] Info | Pokemon encountered: 169
+[01:49:40] A Wild Ralts Attacks!
+[01:49:46] Come Back, Xatu!
+[01:49:46] Go, Kingler!
+[01:49:46] Ralts Attacks Kingler with Confusion.
+[01:49:49] Kingler Attacks Ralts with False Swipe.
+[01:49:49] Ralts used Teleport.
+[01:49:55] Info | Shineys encountered: 0
+[01:49:55] Info | Pokemon caught: 3
+[01:49:55] Info | Pokemon encountered: 170
+[01:49:55] A Wild Sunkern Attacks!
+[01:50:01] You have run away from the wild Pokemon.
+[01:50:11] Info | Shineys encountered: 0
+[01:50:11] Info | Pokemon caught: 3
+[01:50:11] Info | Pokemon encountered: 171
+[01:50:11] A Wild Sunkern Attacks!
+[01:50:16] You have run away from the wild Pokemon.
+[01:50:22] Info | Shineys encountered: 0
+[01:50:22] Info | Pokemon caught: 3
+[01:50:22] Info | Pokemon encountered: 172
+[01:50:22] A Wild Doduo Attacks!
+[01:50:27] You have run away from the wild Pokemon.
+[01:50:35] Info | Shineys encountered: 0
+[01:50:35] Info | Pokemon caught: 3
+[01:50:35] Info | Pokemon encountered: 173
+[01:50:35] A Wild Doduo Attacks!
+[01:50:40] You have run away from the wild Pokemon.
+[01:50:48] Info | Shineys encountered: 0
+[01:50:48] Info | Pokemon caught: 3
+[01:50:48] Info | Pokemon encountered: 174
+[01:50:48] A Wild Doduo Attacks!
+[01:50:54] You have run away from the wild Pokemon.
+[01:51:06] Info | Shineys encountered: 0
+[01:51:06] Info | Pokemon caught: 3
+[01:51:06] Info | Pokemon encountered: 175
+[01:51:06] A Wild Doduo Attacks!
+[01:51:12] You have run away from the wild Pokemon.
+[01:51:26] Info | Shineys encountered: 0
+[01:51:26] Info | Pokemon caught: 3
+[01:51:26] Info | Pokemon encountered: 176
+[01:51:26] A Wild Doduo Attacks!
+[01:51:32] You have run away from the wild Pokemon.
+[01:51:39] Info | Shineys encountered: 0
+[01:51:39] Info | Pokemon caught: 3
+[01:51:39] Info | Pokemon encountered: 177
+[01:51:39] A Wild Doduo Attacks!
+[01:51:44] You have run away from the wild Pokemon.
+[01:51:51] Info | Shineys encountered: 0
+[01:51:51] Info | Pokemon caught: 3
+[01:51:51] Info | Pokemon encountered: 178
+[01:51:51] A Wild Sunkern Attacks!
+[01:51:56] You have run away from the wild Pokemon.
+[01:52:03] Info | Shineys encountered: 0
+[01:52:03] Info | Pokemon caught: 3
+[01:52:03] Info | Pokemon encountered: 179
+[01:52:03] A Wild Doduo Attacks!
+[01:52:08] You have run away from the wild Pokemon.
+[01:52:18] Info | Shineys encountered: 0
+[01:52:18] Info | Pokemon caught: 3
+[01:52:18] Info | Pokemon encountered: 180
+[01:52:18] A Wild Doduo Attacks!
+[01:52:23] You have run away from the wild Pokemon.
+[01:52:30] Info | Shineys encountered: 0
+[01:52:30] Info | Pokemon caught: 3
+[01:52:30] Info | Pokemon encountered: 181
+[01:52:30] A Wild Sunkern Attacks!
+[01:52:34] You have run away from the wild Pokemon.
+[01:52:44] Info | Shineys encountered: 0
+[01:52:44] Info | Pokemon caught: 3
+[01:52:44] Info | Pokemon encountered: 182
+[01:52:44] A Wild Sunkern Attacks!
+[01:52:49] You have run away from the wild Pokemon.
+[01:52:55] Info | Shineys encountered: 0
+[01:52:55] Info | Pokemon caught: 3
+[01:52:55] Info | Pokemon encountered: 183
+[01:52:55] A Wild Doduo Attacks!
+[01:53:02] You have run away from the wild Pokemon.
+[01:53:12] Info | Shineys encountered: 0
+[01:53:12] Info | Pokemon caught: 3
+[01:53:12] Info | Pokemon encountered: 184
+[01:53:12] A Wild Sunkern Attacks!
+[01:53:18] You have run away from the wild Pokemon.
+[01:53:24] Info | Shineys encountered: 0
+[01:53:24] Info | Pokemon caught: 3
+[01:53:24] Info | Pokemon encountered: 185
+[01:53:24] A Wild Sunkern Attacks!
+[01:53:29] You have run away from the wild Pokemon.
+[01:53:37] Info | Shineys encountered: 0
+[01:53:37] Info | Pokemon caught: 3
+[01:53:37] Info | Pokemon encountered: 186
+[01:53:37] A Wild Sunkern Attacks!
+[01:53:42] You have run away from the wild Pokemon.
+[01:53:50] Info | Shineys encountered: 0
+[01:53:50] Info | Pokemon caught: 3
+[01:53:50] Info | Pokemon encountered: 187
+[01:53:50] A Wild Sunkern Attacks!
+[01:53:55] You have run away from the wild Pokemon.
+[01:54:03] Info | Shineys encountered: 0
+[01:54:03] Info | Pokemon caught: 3
+[01:54:03] Info | Pokemon encountered: 188
+[01:54:03] A Wild Doduo Attacks!
+[01:54:09] You have run away from the wild Pokemon.
+[01:54:17] Info | Shineys encountered: 0
+[01:54:17] Info | Pokemon caught: 3
+[01:54:17] Info | Pokemon encountered: 189
+[01:54:17] A Wild Sunkern Attacks!
+[01:54:22] You have run away from the wild Pokemon.
+[01:54:29] Info | Shineys encountered: 0
+[01:54:29] Info | Pokemon caught: 3
+[01:54:29] Info | Pokemon encountered: 190
+[01:54:29] A Wild Sunkern Attacks!
+[01:54:35] You have run away from the wild Pokemon.
+[01:54:42] Info | Shineys encountered: 0
+[01:54:42] Info | Pokemon caught: 3
+[01:54:42] Info | Pokemon encountered: 191
+[01:54:42] A Wild Doduo Attacks!
+[01:54:48] You have run away from the wild Pokemon.
+[01:54:56] Info | Shineys encountered: 0
+[01:54:56] Info | Pokemon caught: 3
+[01:54:56] Info | Pokemon encountered: 192
+[01:54:56] A Wild Doduo Attacks!
+[01:55:01] You have run away from the wild Pokemon.
+[01:55:10] Info | Shineys encountered: 0
+[01:55:10] Info | Pokemon caught: 3
+[01:55:10] Info | Pokemon encountered: 193
+[01:55:10] A Wild Doduo Attacks!
+[01:55:15] You have run away from the wild Pokemon.
+[01:55:22] Info | Shineys encountered: 0
+[01:55:22] Info | Pokemon caught: 3
+[01:55:22] Info | Pokemon encountered: 194
+[01:55:22] A Wild Sunkern Attacks!
+[01:55:28] You have run away from the wild Pokemon.
+[01:55:45] Info | Shineys encountered: 0
+[01:55:45] Info | Pokemon caught: 3
+[01:55:45] Info | Pokemon encountered: 195
+[01:55:45] A Wild Doduo Attacks!
+[01:55:49] You have run away from the wild Pokemon.
+[01:55:57] Info | Shineys encountered: 0
+[01:55:57] Info | Pokemon caught: 3
+[01:55:57] Info | Pokemon encountered: 196
+[01:55:57] A Wild Sunkern Attacks!
+[01:56:02] You have run away from the wild Pokemon.
+[01:56:08] Info | Shineys encountered: 0
+[01:56:08] Info | Pokemon caught: 3
+[01:56:08] Info | Pokemon encountered: 197
+[01:56:08] A Wild Nidoran M Attacks!
+[01:56:14] You have run away from the wild Pokemon.
+[01:56:24] Info | Shineys encountered: 0
+[01:56:24] Info | Pokemon caught: 3
+[01:56:24] Info | Pokemon encountered: 198
+[01:56:24] A Wild Sunkern Attacks!
+[01:56:28] You have run away from the wild Pokemon.
+[01:56:39] Info | Shineys encountered: 0
+[01:56:39] Info | Pokemon caught: 3
+[01:56:39] Info | Pokemon encountered: 199
+[01:56:39] A Wild Sunkern Attacks!
+[01:56:45] You have run away from the wild Pokemon.
+[01:56:55] Info | Shineys encountered: 0
+[01:56:55] Info | Pokemon caught: 3
+[01:56:55] Info | Pokemon encountered: 200
+[01:56:55] A Wild Doduo Attacks!
+[01:57:00] You have run away from the wild Pokemon.
+[01:57:07] Info | Shineys encountered: 0
+[01:57:07] Info | Pokemon caught: 3
+[01:57:07] Info | Pokemon encountered: 201
+[01:57:07] A Wild Nidoran M Attacks!
+[01:57:13] You have run away from the wild Pokemon.
+[01:57:21] Info | Shineys encountered: 0
+[01:57:21] Info | Pokemon caught: 3
+[01:57:21] Info | Pokemon encountered: 202
+[01:57:21] A Wild Doduo Attacks!
+[01:57:27] You have run away from the wild Pokemon.
+[01:57:36] Info | Shineys encountered: 0
+[01:57:36] Info | Pokemon caught: 3
+[01:57:36] Info | Pokemon encountered: 203
+[01:57:36] A Wild Hoppip Attacks!
+[01:57:42] You have run away from the wild Pokemon.
+[01:57:56] Info | Shineys encountered: 0
+[01:57:56] Info | Pokemon caught: 3
+[01:57:56] Info | Pokemon encountered: 204
+[01:57:56] A Wild Doduo Attacks!
+[01:58:01] You have run away from the wild Pokemon.
+[01:58:10] Info | Shineys encountered: 0
+[01:58:10] Info | Pokemon caught: 3
+[01:58:10] Info | Pokemon encountered: 205
+[01:58:10] A Wild Nidoran M Attacks!
+[01:58:14] You have run away from the wild Pokemon.
+[01:58:20] Info | Shineys encountered: 0
+[01:58:20] Info | Pokemon caught: 3
+[01:58:20] Info | Pokemon encountered: 206
+[01:58:20] A Wild Doduo Attacks!
+[01:58:26] You have run away from the wild Pokemon.
+[01:58:42] Info | Shineys encountered: 0
+[01:58:42] Info | Pokemon caught: 3
+[01:58:42] Info | Pokemon encountered: 207
+[01:58:42] A Wild Doduo Attacks!
+[01:58:47] You have run away from the wild Pokemon.
+[01:58:54] Info | Shineys encountered: 0
+[01:58:54] Info | Pokemon caught: 3
+[01:58:54] Info | Pokemon encountered: 208
+[01:58:54] A Wild Doduo Attacks!
+[01:58:59] You have run away from the wild Pokemon.
+[01:59:07] Info | Shineys encountered: 0
+[01:59:07] Info | Pokemon caught: 3
+[01:59:07] Info | Pokemon encountered: 209
+[01:59:07] A Wild Doduo Attacks!
+[01:59:13] You have run away from the wild Pokemon.
+[01:59:25] Info | Shineys encountered: 0
+[01:59:25] Info | Pokemon caught: 3
+[01:59:25] Info | Pokemon encountered: 210
+[01:59:25] A Wild Nidoran M Attacks!
+[01:59:30] You have run away from the wild Pokemon.
+[01:59:36] Info | Shineys encountered: 0
+[01:59:36] Info | Pokemon caught: 3
+[01:59:36] Info | Pokemon encountered: 211
+[01:59:36] A Wild Doduo Attacks!
+[01:59:42] You have run away from the wild Pokemon.
+[01:59:50] Info | Shineys encountered: 0
+[01:59:50] Info | Pokemon caught: 3
+[01:59:50] Info | Pokemon encountered: 212
+[01:59:50] A Wild Sunkern Attacks!
+[01:59:55] You have run away from the wild Pokemon.
+[02:00:05] Info | Shineys encountered: 0
+[02:00:05] Info | Pokemon caught: 3
+[02:00:05] Info | Pokemon encountered: 213
+[02:00:05] A Wild Sunkern Attacks!
+[02:00:11] You have run away from the wild Pokemon.
+[02:00:17] Info | Shineys encountered: 0
+[02:00:17] Info | Pokemon caught: 3
+[02:00:17] Info | Pokemon encountered: 214
+[02:00:17] A Wild Sunkern Attacks!
+[02:00:21] You have run away from the wild Pokemon.
+[02:00:43] Info | Shineys encountered: 0
+[02:00:43] Info | Pokemon caught: 3
+[02:00:43] Info | Pokemon encountered: 215
+[02:00:43] A Wild Doduo Attacks!
+[02:00:48] You have run away from the wild Pokemon.
+[02:00:59] Info | Shineys encountered: 0
+[02:00:59] Info | Pokemon caught: 3
+[02:00:59] Info | Pokemon encountered: 216
+[02:00:59] A Wild Nidoran M Attacks!
+[02:01:03] You have run away from the wild Pokemon.
+[02:01:16] Info | Shineys encountered: 0
+[02:01:16] Info | Pokemon caught: 3
+[02:01:16] Info | Pokemon encountered: 217
+[02:01:16] A Wild Doduo Attacks!
+[02:01:22] You have run away from the wild Pokemon.
+[02:01:29] Info | Shineys encountered: 0
+[02:01:29] Info | Pokemon caught: 3
+[02:01:29] Info | Pokemon encountered: 218
+[02:01:29] A Wild Sunkern Attacks!
+[02:01:35] You have run away from the wild Pokemon.
+[02:01:45] Info | Shineys encountered: 0
+[02:01:45] Info | Pokemon caught: 3
+[02:01:45] Info | Pokemon encountered: 219
+[02:01:45] A Wild Doduo Attacks!
+[02:01:49] You have run away from the wild Pokemon.
+[02:01:58] Info | Shineys encountered: 0
+[02:01:58] Info | Pokemon caught: 3
+[02:01:58] Info | Pokemon encountered: 220
+[02:01:58] A Wild Doduo Attacks!
+[02:02:02] You have run away from the wild Pokemon.
+[02:02:08] Info | Shineys encountered: 0
+[02:02:08] Info | Pokemon caught: 3
+[02:02:08] Info | Pokemon encountered: 221
+[02:02:08] A Wild Doduo Attacks!
+[02:02:14] You have run away from the wild Pokemon.
+[02:02:23] Info | Shineys encountered: 0
+[02:02:23] Info | Pokemon caught: 3
+[02:02:23] Info | Pokemon encountered: 222
+[02:02:23] A Wild Ralts Attacks!
+[02:02:28] Come Back, Xatu!
+[02:02:28] Go, Kingler!
+[02:02:29] Ralts Attacks Kingler with Confusion.
+[02:02:32] Kingler Attacks Ralts with False Swipe.
+[02:02:32] Ralts Attacks Kingler with Confusion.
+[02:02:35] You throw a Pokeball.
+[02:02:35] Info | Shineys encountered: 0
+[02:02:35] Info | Pokemon caught: 4
+[02:02:35] Info | Pokemon encountered: 222
+[02:02:35] Success! You caught Ralts!
+[02:02:42] Info | Shineys encountered: 0
+[02:02:42] Info | Pokemon caught: 4
+[02:02:42] Info | Pokemon encountered: 223
+[02:02:42] A Wild Hoppip Attacks!
+[02:02:47] You have run away from the wild Pokemon.
+[02:03:04] Info | Shineys encountered: 0
+[02:03:04] Info | Pokemon caught: 4
+[02:03:04] Info | Pokemon encountered: 224
+[02:03:04] A Wild Hoppip Attacks!
+[02:03:10] You have run away from the wild Pokemon.
+[02:03:19] Info | Shineys encountered: 0
+[02:03:19] Info | Pokemon caught: 4
+[02:03:19] Info | Pokemon encountered: 225
+[02:03:19] A Wild Doduo Attacks!
+[02:03:26] You have run away from the wild Pokemon.
+[02:03:32] Info | Shineys encountered: 0
+[02:03:32] Info | Pokemon caught: 4
+[02:03:32] Info | Pokemon encountered: 226
+[02:03:32] A Wild Sunkern Attacks!
+[02:03:37] You have run away from the wild Pokemon.
+[02:03:46] Logging out...
+[02:03:46] Disconnected from the server.
+[02:03:46] Bot stopped
+[02:03:51] Connected, authenticating...
+[02:03:51] Bot started
+[02:03:51] Pathfinder: Warning, cannot Headbutt trees.
+[02:03:51] Pathfinder: Warning, cannot Dig.
+[02:03:51] ****************************************BOT STARTED*****************************************
+[02:03:51] Authenticated successfully!
+[02:03:51] System: Welcome to Pokemon Revolution Online. (Yellow Server). 
+[02:03:51] Position updated: Love Island (37, 36) [OK]
+[02:04:00] Info | Shineys encountered: 0
+[02:04:00] Info | Pokemon caught: 0
+[02:04:00] Info | Pokemon encountered: 1
+[02:04:00] A Wild Doduo Attacks!
+[02:04:04] You have run away from the wild Pokemon.
+[02:04:11] Info | Shineys encountered: 0
+[02:04:11] Info | Pokemon caught: 0
+[02:04:11] Info | Pokemon encountered: 2
+[02:04:11] A Wild Doduo Attacks!
+[02:04:15] You have run away from the wild Pokemon.
+[02:04:27] Info | Shineys encountered: 0
+[02:04:27] Info | Pokemon caught: 0
+[02:04:27] Info | Pokemon encountered: 3
+[02:04:27] A Wild Doduo Attacks!
+[02:04:31] You have run away from the wild Pokemon.
+[02:04:40] Info | Shineys encountered: 0
+[02:04:40] Info | Pokemon caught: 0
+[02:04:40] Info | Pokemon encountered: 4
+[02:04:40] A Wild Hoppip Attacks!
+[02:04:46] You have run away from the wild Pokemon.
+[02:05:08] Info | Shineys encountered: 0
+[02:05:08] Info | Pokemon caught: 0
+[02:05:08] Info | Pokemon encountered: 5
+[02:05:08] A Wild Hoppip Attacks!
+[02:05:12] You have run away from the wild Pokemon.
+[02:05:21] Info | Shineys encountered: 0
+[02:05:21] Info | Pokemon caught: 0
+[02:05:21] Info | Pokemon encountered: 6
+[02:05:21] A Wild Nidoran M Attacks!
+[02:05:26] You have run away from the wild Pokemon.
+[02:05:32] Info | Shineys encountered: 0
+[02:05:32] Info | Pokemon caught: 0
+[02:05:32] Info | Pokemon encountered: 7
+[02:05:33] A Wild Sunkern Attacks!
+[02:05:38] You have run away from the wild Pokemon.
+[02:05:47] Info | Shineys encountered: 0
+[02:05:47] Info | Pokemon caught: 0
+[02:05:47] Info | Pokemon encountered: 8
+[02:05:47] A Wild Doduo Attacks!
+[02:05:53] You have run away from the wild Pokemon.
+[02:05:59] Info | Shineys encountered: 0
+[02:05:59] Info | Pokemon caught: 0
+[02:05:59] Info | Pokemon encountered: 9
+[02:05:59] A Wild Sunkern Attacks!
+[02:06:04] You have run away from the wild Pokemon.
+[02:06:12] Info | Shineys encountered: 0
+[02:06:12] Info | Pokemon caught: 0
+[02:06:12] Info | Pokemon encountered: 10
+[02:06:12] A Wild Sunkern Attacks!
+[02:06:17] You have run away from the wild Pokemon.
+[02:06:22] Info | Shineys encountered: 0
+[02:06:22] Info | Pokemon caught: 0
+[02:06:23] Info | Pokemon encountered: 11
+[02:06:23] A Wild Doduo Attacks!
+[02:06:27] You have run away from the wild Pokemon.
+[02:06:36] Info | Shineys encountered: 0
+[02:06:36] Info | Pokemon caught: 0
+[02:06:36] Info | Pokemon encountered: 12
+[02:06:36] A Wild Doduo Attacks!
+[02:06:40] You have run away from the wild Pokemon.
+[02:06:50] Info | Shineys encountered: 0
+[02:06:50] Info | Pokemon caught: 0
+[02:06:50] Info | Pokemon encountered: 13
+[02:06:50] A Wild Ralts Attacks!
+[02:06:54] Come Back, Xatu!
+[02:06:54] Go, Kingler!
+[02:06:54] Ralts Attacks Kingler with Confusion.
+[02:06:57] Kingler Attacks Ralts with False Swipe.
+[02:06:57] Ralts Attacks Kingler with Confusion.
+[02:07:00] You throw a Pokeball.
+[02:07:00] Info | Shineys encountered: 0
+[02:07:01] Info | Pokemon caught: 1
+[02:07:01] Info | Pokemon encountered: 13
+[02:07:01] Success! You caught Ralts!
+[02:07:11] Info | Shineys encountered: 0
+[02:07:11] Info | Pokemon caught: 1
+[02:07:11] Info | Pokemon encountered: 14
+[02:07:11] A Wild Sunkern Attacks!
+[02:07:17] You have run away from the wild Pokemon.
+[02:07:29] Info | Shineys encountered: 0
+[02:07:29] Info | Pokemon caught: 1
+[02:07:29] Info | Pokemon encountered: 15
+[02:07:29] A Wild Hoppip Attacks!
+[02:07:34] You have run away from the wild Pokemon.
+[02:07:45] Info | Shineys encountered: 0
+[02:07:45] Info | Pokemon caught: 1
+[02:07:45] Info | Pokemon encountered: 16
+[02:07:45] A Wild Hoppip Attacks!
+[02:07:50] You have run away from the wild Pokemon.
+[02:07:59] Info | Shineys encountered: 0
+[02:07:59] Info | Pokemon caught: 1
+[02:07:59] Info | Pokemon encountered: 17
+[02:07:59] A Wild Sunkern Attacks!
+[02:08:03] You have run away from the wild Pokemon.
+[02:08:15] Info | Shineys encountered: 0
+[02:08:15] Info | Pokemon caught: 1
+[02:08:15] Info | Pokemon encountered: 18
+[02:08:15] A Wild Togepi Attacks!
+[02:08:19] Come Back, Xatu!
+[02:08:19] Go, Kingler!
+[02:08:19] Togepi used Sweet Kiss.
+[02:08:19] CONFUSION failed to have any effect.
+[02:08:22] Kingler Attacks Togepi with False Swipe.
+[02:08:22] Togepi used Yawn.
+[02:08:22] Kingler is getting sleepy!
+[02:08:25] You throw a Pokeball.
+[02:08:25] Info | Shineys encountered: 0
+[02:08:25] Info | Pokemon caught: 2
+[02:08:25] Info | Pokemon encountered: 18
+[02:08:25] Success! You caught Togepi!
+[02:08:34] Info | Shineys encountered: 0
+[02:08:34] Info | Pokemon caught: 2
+[02:08:34] Info | Pokemon encountered: 19
+[02:08:34] A Wild Nidoran M Attacks!
+[02:08:38] You have run away from the wild Pokemon.
+[02:08:46] Info | Shineys encountered: 0
+[02:08:46] Info | Pokemon caught: 2
+[02:08:46] Info | Pokemon encountered: 20
+[02:08:46] A Wild Doduo Attacks!
+[02:08:51] You have run away from the wild Pokemon.
+[02:08:59] Info | Shineys encountered: 0
+[02:08:59] Info | Pokemon caught: 2
+[02:08:59] Info | Pokemon encountered: 21
+[02:08:59] A Wild Hoppip Attacks!
+[02:09:05] You have run away from the wild Pokemon.
+[02:09:17] Info | Shineys encountered: 0
+[02:09:17] Info | Pokemon caught: 2
+[02:09:17] Info | Pokemon encountered: 22
+[02:09:17] A Wild Sunkern Attacks!
+[02:09:21] You have run away from the wild Pokemon.
+[02:09:32] Info | Shineys encountered: 0
+[02:09:32] Info | Pokemon caught: 2
+[02:09:32] Info | Pokemon encountered: 23
+[02:09:32] A Wild Sunkern Attacks!
+[02:09:37] You have run away from the wild Pokemon.
+[02:09:46] Info | Shineys encountered: 0
+[02:09:46] Info | Pokemon caught: 2
+[02:09:46] Info | Pokemon encountered: 24
+[02:09:46] A Wild Sunkern Attacks!
+[02:09:51] You have run away from the wild Pokemon.
+[02:10:03] Info | Shineys encountered: 0
+[02:10:03] Info | Pokemon caught: 2
+[02:10:03] Info | Pokemon encountered: 25
+[02:10:03] A Wild Sunkern Attacks!
+[02:10:08] You have run away from the wild Pokemon.
+[02:10:18] Info | Shineys encountered: 0
+[02:10:18] Info | Pokemon caught: 2
+[02:10:18] Info | Pokemon encountered: 26
+[02:10:18] A Wild Hoppip Attacks!
+[02:10:22] You have run away from the wild Pokemon.
+[02:10:30] Info | Shineys encountered: 0
+[02:10:30] Info | Pokemon caught: 2
+[02:10:30] Info | Pokemon encountered: 27
+[02:10:30] A Wild Sunkern Attacks!
+[02:10:36] You have run away from the wild Pokemon.
+[02:10:44] Info | Shineys encountered: 0
+[02:10:44] Info | Pokemon caught: 2
+[02:10:44] Info | Pokemon encountered: 28
+[02:10:44] A Wild Sunkern Attacks!
+[02:10:49] You have run away from the wild Pokemon.
+[02:10:55] Info | Shineys encountered: 0
+[02:10:55] Info | Pokemon caught: 2
+[02:10:55] Info | Pokemon encountered: 29
+[02:10:55] A Wild Doduo Attacks!
+[02:11:00] You have run away from the wild Pokemon.
+[02:11:08] Info | Shineys encountered: 0
+[02:11:08] Info | Pokemon caught: 2
+[02:11:08] Info | Pokemon encountered: 30
+[02:11:08] A Wild Doduo Attacks!
+[02:11:12] You have run away from the wild Pokemon.
+[02:11:19] Info | Shineys encountered: 0
+[02:11:19] Info | Pokemon caught: 2
+[02:11:19] Info | Pokemon encountered: 31
+[02:11:19] A Wild Sunkern Attacks!
+[02:11:24] You have run away from the wild Pokemon.
+[02:11:31] Info | Shineys encountered: 0
+[02:11:31] Info | Pokemon caught: 2
+[02:11:31] Info | Pokemon encountered: 32
+[02:11:31] A Wild Sunkern Attacks!
+[02:11:36] You have run away from the wild Pokemon.
+[02:11:46] Info | Shineys encountered: 0
+[02:11:46] Info | Pokemon caught: 2
+[02:11:46] Info | Pokemon encountered: 33
+[02:11:46] A Wild Sunkern Attacks!
+[02:11:51] You have run away from the wild Pokemon.
+[02:12:00] Info | Shineys encountered: 0
+[02:12:00] Info | Pokemon caught: 2
+[02:12:00] Info | Pokemon encountered: 34
+[02:12:00] A Wild Sunkern Attacks!
+[02:12:04] You have run away from the wild Pokemon.
+[02:12:15] Info | Shineys encountered: 0
+[02:12:15] Info | Pokemon caught: 2
+[02:12:15] Info | Pokemon encountered: 35
+[02:12:15] A Wild Sunkern Attacks!
+[02:12:21] You have run away from the wild Pokemon.
+[02:12:28] Info | Shineys encountered: 0
+[02:12:28] Info | Pokemon caught: 2
+[02:12:28] Info | Pokemon encountered: 36
+[02:12:28] A Wild Doduo Attacks!
+[02:12:33] You have run away from the wild Pokemon.
+[02:12:40] Info | Shineys encountered: 0
+[02:12:40] Info | Pokemon caught: 2
+[02:12:40] Info | Pokemon encountered: 37
+[02:12:40] A Wild Happiny Attacks!
+[02:12:46] You have run away from the wild Pokemon.
+[02:12:53] Info | Shineys encountered: 0
+[02:12:53] Info | Pokemon caught: 2
+[02:12:53] Info | Pokemon encountered: 38
+[02:12:53] A Wild Sunkern Attacks!
+[02:12:58] You have run away from the wild Pokemon.
+[02:13:12] Info | Shineys encountered: 0
+[02:13:12] Info | Pokemon caught: 2
+[02:13:12] Info | Pokemon encountered: 39
+[02:13:12] A Wild Doduo Attacks!
+[02:13:18] You have run away from the wild Pokemon.
+[02:13:25] Info | Shineys encountered: 0
+[02:13:25] Info | Pokemon caught: 2
+[02:13:25] Info | Pokemon encountered: 40
+[02:13:25] A Wild Bellossom Attacks!
+[02:13:30] You have run away from the wild Pokemon.
+[02:13:38] Info | Shineys encountered: 0
+[02:13:38] Info | Pokemon caught: 2
+[02:13:38] Info | Pokemon encountered: 41
+[02:13:38] A Wild Doduo Attacks!
+[02:13:43] You have run away from the wild Pokemon.
+[02:14:00] Info | Shineys encountered: 0
+[02:14:00] Info | Pokemon caught: 2
+[02:14:00] Info | Pokemon encountered: 42
+[02:14:00] A Wild Nidoran M Attacks!
+[02:14:05] You have run away from the wild Pokemon.
+[02:14:13] Info | Shineys encountered: 0
+[02:14:13] Info | Pokemon caught: 2
+[02:14:13] Info | Pokemon encountered: 43
+[02:14:13] A Wild Doduo Attacks!
+[02:14:19] You have run away from the wild Pokemon.
+[02:14:28] Info | Shineys encountered: 0
+[02:14:28] Info | Pokemon caught: 2
+[02:14:28] Info | Pokemon encountered: 44
+[02:14:28] A Wild Bellossom Attacks!
+[02:14:34] You have run away from the wild Pokemon.
+[02:14:54] Info | Shineys encountered: 0
+[02:14:54] Info | Pokemon caught: 2
+[02:14:54] Info | Pokemon encountered: 45
+[02:14:54] A Wild Wynaut Attacks!
+[02:14:59] You can not switch this Pokemon!
